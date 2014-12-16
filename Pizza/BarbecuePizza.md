@@ -17,7 +17,7 @@ Cornmeal, for dusting baking sheet
 
 Directions:
 
-Preheat the oven to 500°F.
+Preheat the oven to 500Â°F.
 
 Roll out the pizza dough on a lightly floured surface until it is roughly 12 inches wide and 1/4-inch thick.
 
