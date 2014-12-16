@@ -1,7 +1,7 @@
-# Honey Mustard Sauce
-## Delicious on mixed salad and sandwiches
+## Honey Mustard Sauce
 
-### Prep: 5mins
+Delicious on mixed salad and sandwiches
+Prep: 5mins
 
 ### Ingredients
 
