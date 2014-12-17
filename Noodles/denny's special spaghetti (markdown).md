@@ -30,7 +30,7 @@
 10.  taste your spaghetti, if it's at the texture of your liking (I don't like over cooked pasta) strain it
 11.  Rinse your strained spaghetti
 12.  cut around 1/4 stick of butter (make sure it's not rock hard/frozen) and mix it around it your strained spaghetti
-13.  server yourself a plate of spaghetti and pour some of the tomato sauce vegies/meat on your spaghetti (as much as you like ^_^)
+13.  serve yourself a plate of spaghetti and pour some of the tomato sauce vegies/meat on your spaghetti (as much as you like ^_^)
 14.  You're done! eat and enjoy ^_^
  
   I hope you enjoy it as much as I do! Remember you can swap any of the meat, vegies seasonings, or types of pasta you use. This is just the combo I normally use when i cook spaghetti and I'm just sharing it :)  I'll probably be trying new stuff in the future and will update this whenever I find something else that I really like, feel free to give suggestions too, would love to hear what you guys come up with! Also for drinks I recommend ice water or lemoniade (fresh squeezed is better)
