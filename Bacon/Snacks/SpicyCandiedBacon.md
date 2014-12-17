@@ -5,7 +5,7 @@ Not too spicy not too sweet.
 ## Tools
 
 - Baking Dish w/ Lip (as big as possible)
-- Silpat or wax paper
+- Silpat (or wax paper)
 
 ## Ingredients
 
