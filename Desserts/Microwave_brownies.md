@@ -1,6 +1,10 @@
 ## Microwave Brownies
 
-###Mix the dry stuff. 
+###Tools needed.
+* A bowl. (Medium sized.)
+* A microwave.
+
+###Mix the dry stuff.
 * 65g unsweetened cocoa powder
 * 100g plain flour
 * 200g sugar
