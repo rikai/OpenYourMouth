@@ -1,6 +1,6 @@
 #30-Minute Barbecue Chicken Pizza
 
-*Prep Time: 15 min*
+*Prep Time: 15 min*<br>
 *Cook Time: 12 min*  
 
 ##Ingredients:  
