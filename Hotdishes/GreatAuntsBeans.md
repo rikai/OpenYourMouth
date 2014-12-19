@@ -6,6 +6,7 @@
 - 1 LB Hamburger
 - 3 12oz. cans of Pork and Beans
 - 2 Strips of Bacon
+- 1/2 Cup Brown Sugar
 - 1/4 Cup Molasses
 - 1/2 Teaspoon Dry Mustard
 - 1/2 Cup Ketchup
