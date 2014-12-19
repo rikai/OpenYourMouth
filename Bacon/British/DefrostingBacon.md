@@ -1,7 +1,7 @@
 # Defrosting Bacon
 ## Getting bacon quicker
 
-There are two methods that seem to work for this task, both carry the risk of partially cooking you bacon cooking one's bacon. These methods are in no way guaranteed or scientifically tested; proceed with caution, or just leave you bacon in the fridge the night before.
+There are two methods that seem to work for this task, but both carry the risk of partially cooking one's bacon. These methods are in no way guaranteed or scientifically tested; proceed with caution, or just leave you bacon in the fridge the night before.
 
 ### The microwave method
 
