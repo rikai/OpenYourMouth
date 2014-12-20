@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}OpenYourMouth | {{ category }}{% endblock title %}
+{% block main %}
+    <p>{{ category }}</p>
+    <br />
+    {% for recipe in recipes %}
+    <a href="/{{ category }}/{{ recipe }}/">
+        <button class="btn btn-large btn-block btn-primary" type="button">{{ recipe }}</button>
+    </a>
+    {% endfor %}
+{% endblock main %}

@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block main %}
+    <p>Open Source Recipes from the Jupiter Broadcasting community</p>
+    <br />
+    {% for category in categories %}
+
+     <a href="/{{ category }}/">
+        <button class="btn btn-large btn-block btn-primary" type="button">{{ category }}</button>
+     </a>
+
+    {% endfor %}
+{% endblock main %}
