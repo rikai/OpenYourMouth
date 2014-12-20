@@ -1,2 +1,10 @@
 # Vim swap files
 *.swp
+
+# Python cache files
+*.py[co]
+__pycache__
+
+# virtualenv
+venv*
+.venv*
