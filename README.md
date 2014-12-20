@@ -30,3 +30,12 @@ You'll just have to try them yourselves!
 Webserver and python checks can be run with
 
     $ pep8 *.py && ./testserver.py
+
+
+Deploying to Heroku
+-------------------
+
+Install the heroku [toolbelt](https://toolbelt.heroku.com/)
+
+    $ heroku create
+    $ git push heroku master
