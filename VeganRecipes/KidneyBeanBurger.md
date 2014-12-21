@@ -22,7 +22,6 @@
 * Avocado
 * Tomatoes
 * Mustard and Ketchup
-
 * and/or whatever else you like.
 
 ## Instructions
