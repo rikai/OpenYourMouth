@@ -9,7 +9,7 @@
 ### Steps
 
 1. Put some water in a pan
-2. Bring the water  to boiling on the hob
+2. Bring the water  to boiling on the hob (range)
 3. Put the egg/s in the water
 4. Wait
 	- About 3 minutes for soft
