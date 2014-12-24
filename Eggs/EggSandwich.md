@@ -1,6 +1,8 @@
 # Egg Sandwich
 ## A Stupid Simple and Delicious Way to Eat Eggs
 
+![Egg Sandwich](http://i.imgur.com/EO7GYmL.jpg "Egg Sandwich")
+
 ### Ingredients 
 
 - 2 Slices of Bread
