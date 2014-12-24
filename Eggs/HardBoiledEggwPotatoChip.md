@@ -2,7 +2,7 @@
 #### *Serves: 1*
 
 ## Ingredients
-* [Hard boiled egg](Eggs/BoiledEggs.md)
+* [Hard boiled egg](BoiledEggs.md)
 * Bag of [potato chip](https://github.com/rikai/OpenYourMouth/search?utf8=%E2%9C%93&q=Potato+Chip)
 
 ## Instructions
