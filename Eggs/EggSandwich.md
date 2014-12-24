@@ -5,7 +5,7 @@
 
 - 2 Slices of Bread
 - Butter Spread
-- Eggs
+- An Egg
 - Non-Stick Spray
 - Large Frying Pan
 - Salt
