@@ -5,7 +5,7 @@
 * 2 medium carrots, chopped (about a cup)
 * 1 medium white onion, chopped (about a cup)
 * 3 cloves garlic, crushed or minced
-* 24oz oz dried split peas  *see notes (these are usually available as green or yellow, i usually get one of each, but you may do as you wish)
+* 24oz oz dried split peas  *see notes
 * 2 qt low-sodium chicken or vegetable broth
 * smoked meat on a bone, aproximately 1 lb  *see notes 
 * 1-2 Tbsp each dried sage and dried parsley
