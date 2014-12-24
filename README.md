@@ -5,6 +5,10 @@ OpenYourMouth
 
 Open Source Recipes from the Jupiter Broadcasting community
 
+### Contributing
+
+It is recommended to name the file of your recipe with EveryFirstLetterCapitalized.md
+
 ### Recipe Template
 
 # Title
