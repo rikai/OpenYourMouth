@@ -26,9 +26,10 @@
 1. Prepare ribs. I slow cook them in a crock pot for a while until the meat falls off the bones. I don't usually marinate them - I just want the meat cooked. Separate the meat from the bones and set aside.
 2. Put tomatoes and pork in a soup pot and start warming them up over low heat. I like to let chili warm up slowly to give the flavours a chance to mix.
 3. Add chili power, cumin, black & red pepper. Spicing can be a contentious issue. I don't get too fancy with it, but everyone has their own take. My amounts are strictly ball-park. My hunch is that I actually use more than I've shown here.
-4. Saute onions lightly in olive oil. I like to stop while they're still a little crispy and have some flavour. Add to chili.
-5. If you're using fresh (i.e. not canned) mushrooms, saute them lightly in the same pan. Add to chili.
-6. Add green peppers. I try to leave it until later since I don't like mushy peppers in my chili. That can't always be avoided, but I try.
+4. Add meat to chili and mix in.
+5. Saute onions lightly in olive oil. I like to stop while they're still a little crispy and have some flavour. Add to chili.
+6. If you're using fresh (i.e. not canned) mushrooms, saute them lightly in the same pan. Add to chili.
+7. Add green peppers. I try to leave it until later since I don't like mushy peppers in my chili. That can't always be avoided, but I try.
 
 ##Comments
 I don't know how much this makes. How many it serves depends on how hungry people are. :-) I try to get most of the "cooking" out of the way before adding the peppers and mushrooms, since they don't add a lot of flavour to the chili and peppers tend to get mashed/mushrooms tend to get rubbery if cooked too long.
