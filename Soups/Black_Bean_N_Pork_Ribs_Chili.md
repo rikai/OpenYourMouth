@@ -5,7 +5,7 @@
 ##Ingredients
 * 3 lb. 'Family Pack' pork ribs (bit of a guess - the more the better)
 * 2 c. black beans, soaked or canned
-* 3 c. crushed tomatoes, canned for convenience
+* 3 - 4 c. crushed tomatoes, canned for convenience
 * 1/2 c. mushroom pieces
 * 2 - 3 cloves crushed garlic
 * 1 c. chopped onion
