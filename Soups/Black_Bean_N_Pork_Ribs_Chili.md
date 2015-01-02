@@ -21,9 +21,10 @@
 * molasses - Go lightly! A little goes a long way.
 * 1/4 c. (maybe?) rice - It adds body, but ultimately, I didn't like it.
 * liquid smoke - ugh. No.
+* Barbecue sauce - my preference is spicy over sweet. I'm from Kansas City and they take that stuff *very* seriously here.
 
 ##Directions
-1. Prepare ribs. I slow cook them in a crock pot for a while until the meat falls off the bones. I don't usually marinate them - I just want the meat cooked. Separate the meat from the bones and set aside.
+1. Prepare ribs. I slow cook them in a crock pot for a while until the meat falls off the bones. I don't usually marinate them - I just want the meat cooked. Separate the meat from the bones and set aside. I usually like to pull the pork so it's shredded instead of being chopped chunks of meat in the chili.
 2. Put tomatoes and pork in a soup pot and start warming them up over low heat. I like to let chili warm up slowly to give the flavours a chance to mix.
 3. Add chili power, cumin, black & red pepper. Spicing can be a contentious issue. I don't get too fancy with it, but everyone has their own take. My amounts are strictly ball-park. My hunch is that I actually use more than I've shown here.
 4. Add meat to chili and mix in.
