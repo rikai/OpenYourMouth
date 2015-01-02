@@ -9,9 +9,21 @@
 * 1/2 c. mushroom pieces
 * 2 - 3 cloves crushed garlic
 * 1 c. chopped onion
+* 1 c. green peppers in large pieces
 * 3 tbsp chili powder
 * 1 tbsp cumin
 * 1 tsp ground black pepper
 * 1 tsp crushed red pepper (optional)
+* cilantro to taste (optional)
+
+###Optional ingredients I have tried
+* 1 bottle of beer, usually nothing heavier than an amber. I prefer drinking the beer with the chili.
+* molasses - Go lightly! A little goes a long way.
+* 1/4 c. (maybe?) rice - It adds body, but ultimately, I didn't like it.
+* liquid smoke - ugh. No.
 
 ##Directions
+1. Prepare ribs. I slow cook them in a crock pot for a while until the meat falls off the bones. I don't usually marinate them - I just want the meat cooked. Separate the meat from the bones and set aside.
+2. Put tomatoes and pork in a soup pot and start warming them up over low heat. I like to let chili warm up slowly to give the flavours a chance to mix.
+3. Add chili power, cumin, black & red pepper. Spicing can be a contentious issue. I don't get too fancy with it, but everyone has their own take. My amounts are strictly ball-park. My hunch is that I actually use more than I've shown here.
+4. Saute onions lightly in olive oil. I like to stop while they're still a little crispy and have some flavour.
