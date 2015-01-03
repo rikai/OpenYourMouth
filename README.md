@@ -9,7 +9,9 @@ Open Source Recipes from the Jupiter Broadcasting community
 
 It is recommended to name the file of your recipe with EveryFirstLetterCapitalized.md
 
-### Recipe Template
+### Recipe Template Example:
+
+
 
 # Title
 ## Description
