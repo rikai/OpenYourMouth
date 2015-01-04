@@ -1,12 +1,16 @@
-# Fried bacon
+---
+title: Fried Bacon 
+tags: bacon, fried
+---
+
 ## The nice but unhealthy way to bacon
 
-### Ingredients
+## Ingredients
 
 - Bacon
 - Oil
 
-### Steps
+## Steps
 
 1. Check if bacon is frozen
 	- (true) defrost bacon

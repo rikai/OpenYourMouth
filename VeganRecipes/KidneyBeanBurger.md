@@ -1,4 +1,7 @@
-# Kidney Bean Burger
+---
+title: Kidney Bean Burger
+tags: vegan, dinner, lunch
+---
 
 ## Ingredients
 

@@ -1,4 +1,9 @@
-# Easy Chicken a la King
+---
+title: Easy Chicken a la King
+tags: dinner, lunch
+---
+
+## Description
 
 This dish is an easy way to use up cooked chicken or you can grab a rotisserie chicken from the grocery store. Serve over rice, egg noodles or, like my mom used to do, dress it up with these: [Pepperidge Farm Puff Pastry Shells](http://www.pepperidgefarm.com/Images/Products/prdLarge_112172.jpg).
 

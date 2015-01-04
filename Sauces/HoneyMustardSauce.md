@@ -1,9 +1,13 @@
-## Honey Mustard Sauce
+---
+title: Honey Mustard Sauce
+tags: sauce, partial
+---
 
 Delicious on mixed salad and sandwiches <br>
+
 Prep: 5mins
 
-### Ingredients
+## Ingredients
 
 - 2 tbsp. crème fraîche or sour cream
 - 2 tsp. honey
@@ -12,7 +16,7 @@ Prep: 5mins
 - 1 tbsp. (red wine) vinegar
 - pepper, salt
 
-### Directions
+## Directions
 
 1. Mix everything together
 2. salt to taste

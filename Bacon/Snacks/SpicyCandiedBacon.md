@@ -1,4 +1,9 @@
-# Spicy Candied Bacon
+---
+title: Spicy Candied Bacon
+tags: bacon, candy, spicy
+---
+
+## Description
 
 Not too spicy not too sweet.
 

@@ -1,6 +1,9 @@
-# Cereals
+---
+title: Cereals
+tags: breakfast
+---
 
-### Ingredients
+## Ingredients
 
 - Store
 - Bowl
@@ -8,7 +11,7 @@
 - Milk
 - Microwave (optional)
 
-### Steps
+## Steps
 
 1. Go to store
 2. Buy corn flakes box

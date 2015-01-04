@@ -1,4 +1,7 @@
-# Whipped Oven Potatoes
+---
+title: Whipped Oven Potatoes
+tags: sides, dinner, lunch, starch
+---
 
 ## Ingredients
 

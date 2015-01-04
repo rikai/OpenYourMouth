@@ -1,7 +1,10 @@
-Pizza Dough
-===========
-Ingredients
------------
+---
+title: Pizza Dough
+tags: pizza, partial
+---
+
+## Ingredients
+
 * 1kg '00' Floor
 * 2 x 7g satches of yeast
 * 1 tbsp sugar
@@ -11,8 +14,8 @@ Ingredients
 For fresh pizza dough it is recommend to buy the highest quality floor avialible. 
 Fresh yeast is also advisible over satchets of dried but it does require starting and can be less consistent.
 
-Equipment
----------
+## Equipment
+
 * 1 700+mL Jug
 * 1 fork
 * 1 large bowl
@@ -22,12 +25,12 @@ Equipment
 Optional
 * 1 Stand mixer with dough hook OR bread maker with dough setting
 
-Process
--------
+## Process
 
 Follow on of the methods below depending on what equipment you have 
 
-#### By Hand
+### By Hand
+
 * Add 660mL of body temp water to a jug, add the sugar, yeast then oil and mix, then set aside. 
 * Clean your work space, you will need a 60 by 30cm space of clean work surface
 * Sieve your floor into a mound on the work surface
@@ -49,7 +52,8 @@ Follow on of the methods below depending on what equipment you have
 * Dusty hands and surface with flour and knead lightly so that some air trapped in the dough escapes
 * Dough is now ready to shaping into bases or storage
 
-#### With stand mixer
+### With stand mixer
+
 * Add 660mL of body temp water to a jug, add the sugar, yeast then oil and mix, then set aside.
 * Add dough hook to stand mixer
 * Sieve floor into bowl of stand mixer
@@ -63,7 +67,8 @@ Follow on of the methods below depending on what equipment you have
 * Dusty hands and surface with flour and knead lightly so that some air trapped in the dough escapes
 * Dough is now ready to shaping into bases or storage
 
-#### With bread maker
+### With bread maker
+
 * Add 660mL of body temp water to the pan of the bread maker, add the sugar, yeast then oil.
 * Sieve floor into pan of bread maker
 * turn on bread machine using dough setting

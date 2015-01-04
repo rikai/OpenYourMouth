@@ -1,8 +1,12 @@
-# Mushroom Risotto
+---
+title: Mushroom Risotto
+tags: dinner, lunch
+---
+
 ## Classic Risotto with mushrooms a bit of work but great flavours.
 by: Tomracing79
 
-### Ingredients
+## Ingredients
 
 - risotto rice
 - 6 stalks of celery
@@ -17,7 +21,7 @@ by: Tomracing79
 - vermouth/martini or white wine
 - butter
 
-### Steps
+## Steps
 
 1. Slicing and dicing: cut the onion and the celery stalks into even small cubes. Meanwhile boil water to make your 1.5L vegetable stock. And brush clean your mushroom without slicing them. Preheat the oven at 180degC.
 2. Put the sliced onion and celery in a wok or large and deep frying pan with some olive oil and press the garlic cloves in. Stir and fry slowly for 15minutes without colouring.

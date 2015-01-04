@@ -1,10 +1,13 @@
-## Mango chutney & Garam masala sandwich sauce
+---
+title: Mango chutney & Garam Masala Sandwich Sauce
+tags: sauce
+---
 
-Sweet and spicey sauce ment for sandwiches, <br>
-but it may work well for other stuff as well <br>
+Sweet and spicey sauce ment for sandwiches, but it may work well for other stuff as well.
+
 Prep: 15mins
 
-### Ingredients
+## Ingredients
 
 - 250ml creme fraiche or sour cream
 - 1 red onion
@@ -14,7 +17,7 @@ Prep: 15mins
 - pepper
 - salt
 
-### Directions
+## Directions
 
 1. Mince the red onion and ginger (a mixmaster might do the trick)
 2. Put a small pot on the oven and set it to low heat
@@ -24,6 +27,7 @@ Prep: 15mins
 6. Wait untill the mixture has simmered for a while
 6. Pour the pot in to (a) container(s) and put it in the fridge
 
-# Tips
+## Tips
+
 Goes great with slices of chicken, turkey and ham.<br>
 Just take a knife and spread the mixture on a slice of bread.

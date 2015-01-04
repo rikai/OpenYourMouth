@@ -1,4 +1,8 @@
-# Grilled bacon
+---
+title: Grilled Bacon
+tags: bacon, grilled, healthy
+---
+
 ## Healthy bacon
 
 ### Ingredients

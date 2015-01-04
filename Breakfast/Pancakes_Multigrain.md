@@ -1,4 +1,7 @@
-# MultiGrain Pancakes
+---
+title: Multigrain Pancakes
+tags: breakfast
+---
 
 ## Ingredients
 
