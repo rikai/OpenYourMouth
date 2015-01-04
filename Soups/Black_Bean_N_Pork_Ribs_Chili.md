@@ -15,7 +15,7 @@
 | chili powder                             | 3 tablespoons                                |
 | cumin                                    | 1 tablespoon                                 |
 | ground black pepper                      | 1 teaspoon                                   |
-|*Optional*                                |
+*Optional* 
 | crushed red pepper                       | 1 teaspoon, or more                          |
 | chopped cilantro                         | to taste, probably not more than 2 teaspoons |
 
