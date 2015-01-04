@@ -1,8 +1,14 @@
+---
+title: Garlic & Tomato Omelette w/ cheese & side of bacon
+tags: eggs, cheese, bacon, breakfast
+---
+
 # Garlic & Tomato Omelette w/ cheese & side of bacon
 
 Delicious goodness that will power you with energy for a long time
 
 ## Ingredients 
+
 * 3-5 strips of bacon
 * 3-4 eggs (to your liking)
 * 1 clove of garlic
@@ -11,6 +17,7 @@ Delicious goodness that will power you with energy for a long time
 * butter
 
 ## Let's get cooking
+
 (Lots of steps but literally takes a few minutes)
 
 1. Place bacon on a pan and cook to your preference of crunchiness

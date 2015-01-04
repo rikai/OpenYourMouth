@@ -1,4 +1,7 @@
-# Bacon Cheeseball
+---
+title: Bacon Cheeseball
+tags: bacon, cheese
+---
 
 ## Ingredients
 

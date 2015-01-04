@@ -1,9 +1,13 @@
-# Egg Sandwich
+---
+title: Egg Sandwich
+tags: eggs
+---
+
 ## A Stupid Simple and Delicious Way to Eat Eggs
 
 ![Egg Sandwich](http://i.imgur.com/EO7GYmL.jpg "Egg Sandwich")
 
-### Ingredients 
+## Ingredients 
 
 - 2 Slices of Bread
 - Butter Spread
@@ -13,7 +17,7 @@
 - Salt
 - Pepper
 
-### Steps
+## Steps
 
 1. Spray the Pan with Non-Stick Spray
 2. Crack the Egg Into the Pan

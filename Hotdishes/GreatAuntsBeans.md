@@ -1,7 +1,11 @@
-# Bean and Beef Hot-dish
+---
+title: Beans and Beef Hot-dish
+tags: sides, beans, meat
+---
+
 ## Old family recipe from my Great Aunt Deloris
 
-### Ingredients
+## Ingredients
 
 - 1 LB Hamburger
 - 3 12oz. cans of Pork and Beans
@@ -14,7 +18,7 @@
 - 1 Pinch of Salt
 - 1 Pinch of Onion Powder
 
-### Steps
+## Steps
 
 1. Cut up the two strips of bacon and fry.
 2. Brown the 1 LB of hamburger.

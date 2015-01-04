@@ -1,4 +1,8 @@
-# Boiled eggs
+---
+title: Boiled Eggs
+tags: eggs
+---
+
 ## Soft or hard
 
 ### Ingredients

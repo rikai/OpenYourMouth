@@ -1,6 +1,9 @@
-#Alfredo Sauce
+---
+title: Alfredo Sauce
+tags: sauce, dinner, partial, lunch
+---
 
-##Ingredients
+## Ingredients
 
 - 1 pint heavy cream
 - 5 oz Parmigiano Reggiano cheese, shredded
@@ -10,7 +13,7 @@
 - Black pepper (to taste)
 - Freshly grated nutmeg (to taste)
 
-##Directions
+## Directions
 
 In a medium sauce pan, over medium-high heat, melt butter and add in minced
 garlic. Cook garlic until golden and add in flour and whisk slowly for 30

@@ -1,14 +1,18 @@
-# Fried Eggs
+---
+title: Fried Eggs
+tags: eggs
+---
+
 ## The best way to do eggs
 
-### Ingredients 
+## Ingredients 
 
 - Eggs
 	- One for each fried egg you want
 - Oil
 
 
-### Steps
+## Steps
 
 1. Place frying pan on hob
 2. Put oil in the pan
@@ -20,7 +24,7 @@
 		- You might need to add more oil
 7. Eat
 
-### Serving suggestions
+## Serving suggestions
 
 - HP source (Brown source)
 - Sprinkled lightly with pepper

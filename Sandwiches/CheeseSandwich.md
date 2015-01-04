@@ -1,14 +1,17 @@
-# Cheese sandwich
-##The stapel of the working human.
+---
+title: Cheese Sandwich
+tags: dinner, lunch
+---
 
-### Ingredients
+## The stapel of the working human.
+
+## Ingredients
 
 - Cheese
 - Bread
 - Butter/margerine
 
-
-### Steps
+## Steps
 
 1. Check if bread is sliced
 	- (true) continue

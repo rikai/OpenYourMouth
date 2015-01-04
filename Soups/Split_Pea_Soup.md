@@ -1,4 +1,9 @@
-# Split Pea Soup (makes aprox. 1 gal)
+---
+title: Split Pea Soup
+tags: soup
+---
+
+## Split Pea Soup (makes aprox. 1 gal)
 
 ## Ingredients:
 
@@ -12,13 +17,11 @@
 * coarse ground salt/pepper to taste
 * olive oil or vegitable oil
 
-
-
 ## Notes:
+
 on the split peas: these are usually available as green or yellow, i usually get one of each, but you may do as you wish
+
 on the smoked meat: typically this will be a smoked pork hock or neck, however smoked turkey legs are mighty tasty, too
-
-
 
 ## Instructions:
 

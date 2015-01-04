@@ -1,10 +1,12 @@
-Hearty Meat Sauce
-=================
+---
+title: Hearty Meat Sauce 
+tags: sauce, dinner, lunch
+---
 
 Serves: 4+
 
-Ingredients
------------
+## Ingredients
+
 - ~500g (1 pound) of ground Beef/Pork/Chicken
 - 2-3 tomatoes (diced)
 - 1 medium onion (diced)
@@ -18,8 +20,8 @@ Ingredients
 - 1 tablespoon of basil pesto
 - Salt + Pepper
 
-Instructions
-------------
+## Instructions
+
 1. Prepare your vegetables.
 2. Begin browning ground meat in a pan. Add onions and garlic when
 you can't see any more pink.
