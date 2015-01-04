@@ -11,14 +11,17 @@ It is recommended to name the file of your recipe with EveryFirstLetterCapitaliz
 
 ### Recipe Template Example:
 
+```
+---
+title: Recipe title
+tags: bacon, breakfast, eggs
+---
 
-
-# Title
 ## Description
 
-![Alt Text](http://i.imgur.com/tYjfo5M.png "Title")
+A short descript of your recipe. 
 
-### Ingredients
+## Ingredients
 
 |Ingredients | US    |Metric |
 |:----------:|:-----:|:-----:|
@@ -28,7 +31,7 @@ It is recommended to name the file of your recipe with EveryFirstLetterCapitaliz
 | Need       | 1 cup | 5 g   |
 
 
-### Preparation
+## Preparation
 
 1. Take
 2. It
@@ -37,3 +40,4 @@ It is recommended to name the file of your recipe with EveryFirstLetterCapitaliz
 5. Step
 6. then
 7. Devour
+```
