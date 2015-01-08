@@ -1,6 +1,6 @@
-#Billybigrigger's Christmas Cream Liqour
+# Billybigrigger's Christmas Cream Liqour
 
-##Ingredients:
+## Ingredients:
 -   375mL Crown Royal Whiskey
 
 -   1 x 14oz Can of condensed milk
@@ -18,7 +18,7 @@
 -   1/2 Teaspoon almond extract
 
 
-##Directions:
+## Directions:
 
 In a blender, combine milk, cream, eggs, chocolate syrup, espresso, vanilla, and almond extract.  Blend until smooth, then add whiskey and blend again until mixed.  
 Then bottle for gifts or storage, and chill.  Will keep in fridge for 1 month.  Shake well before serving.
