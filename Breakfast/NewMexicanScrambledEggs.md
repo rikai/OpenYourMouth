@@ -1,6 +1,6 @@
 ## New Mexican Style Scrambled Eggs
 
-###Ingredients
+### Ingredients
 
 * Eggs
 * Potatoes
@@ -20,6 +20,6 @@
 6. Finally, add green chili and turn down the heat
 
 
-###Comments
+### Comments
 
 I find that for one person, a mixture of around 3 eggs, 2 potatoes, and a couple of sausages makes for a good mixture. 

@@ -1,17 +1,17 @@
-#Simple Spatchcock Turkey From The Grill
+# Simple Spatchcock Turkey From The Grill
 
 *Prep Time: 15 min*<br>
 *Cook Time: 1.5hrs +/-*
 
 
-##Ingredients:  
+## Ingredients:  
 
 * Whole Turkey (recommend 12 - 14 lbs)
 * Two tablespoons olive oil
 * Shaker of poultry seasoning of choice. *Original author prefers Tony Chachere's Original Creole Seasoning.*
 
 
-##Directions:
+## Directions:
 
 1. Remove outer packaging and organ packet from thawed turkey.
 
