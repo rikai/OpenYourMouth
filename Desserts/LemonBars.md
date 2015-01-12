@@ -1,6 +1,6 @@
 ## Arnold's Appetizing Lemon Bars 
 
-###Crust:
+### Crust:
 * 1 C. Butter
 * 2 C. Flower
 * 1/2 C. Powdered Sugar
@@ -8,7 +8,7 @@
 >Cream the butter, add the flower and sugar to the mix. Press on the bottom of an un-greased
 9x13" pan. Bake at 350 degrees for 20 minutes
 
-###Filling:
+### Filling:
 
 * 4 Eggs
 * 2 C. Granulated sugar
