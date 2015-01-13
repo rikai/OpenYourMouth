@@ -4,7 +4,7 @@
 
 ### Ingredients
 |Ingredients                               | US                                           |
-|:----------------------------------------:|:--------------------------------------------:|
+|:-----------------------------------------|:---------------------------------------------|
 | 'Family Pack' pork ribs                  | approx. 3 lbs                                |
 | black beans, soaked or canned            | 2 cups                                       |
 | crushed tomatoes, canned for convenience | 3-4 cups                                     |
@@ -20,7 +20,7 @@
 | chopped cilantro                         | to taste, probably not more than 2 teaspoons |
 
 |Optional ingredients I have tried | US                | Comments                                                                      |
-|:--------------------------------:|:-----------------:|:-----------------------------------------------------------------------------:|
+|:---------------------------------|:------------------|:------------------------------------------------------------------------------|
 | beer                             | 1 bottle          | Nothing heavier than an amber. I prefer drinking the beer with the chili. ;-) |
 | molasses                         | 1 tablespoon, max | Go lightly! A little goes a long way.                                         |
 | rice                             | 1/4 cup, max      | It adds body, but ultimately, I didn't like it.                               |

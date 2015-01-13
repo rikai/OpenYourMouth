@@ -16,7 +16,7 @@ Color: 8 SRM (Morey)
 ### Grains
 
 |Ingredients        | US    |Metric  |
-|:-----------------:|:-----:|:------:|
+|:------------------|:------|:-------|
 | US 2-row Malt     | 10 lb | 4.5 kg |
 | Caravienne Malt   | 2 lb  | 1 kg   |
 | Marris Otter Malt | 2 lb  | 1 kg   |
@@ -25,7 +25,7 @@ Color: 8 SRM (Morey)
 ### Hops
 
 | Name     | AA%   | US   | Metric | Use     | Time   |
-|:--------:|:-----:|:----:|:------:|:-------:|:------:|
+|:---------|:------|:-----|:-------|:--------|:-------|
 | Cascade  | 7.2%  | 2 oz | 57 g   | Boil    | 20 min |
 | Cascade  | 7.2%  | 2 oz | 57 g   | Boil    | 10 min |
 | Cascade  | 7.2%  | 2 oz | 57 g   | Boil    | 5 min  |

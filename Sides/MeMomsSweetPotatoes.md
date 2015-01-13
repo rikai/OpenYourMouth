@@ -7,7 +7,7 @@ a kid-friendly favorite for a holiday meal.
 ### Ingredients
 
 |Ingredients       | US       |Metric    |
-|:----------------:|:--------:|:--------:|
+|:-----------------|:---------|:---------|
 |Sweet Potatoes    | Qty 3 lg | Qty 3 lg |
 |Butter            | 1/2 stick| 56.5 g   |
 |Crushed Pineapple | 8 oz     | 227 g    |
