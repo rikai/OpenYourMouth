@@ -1,12 +1,17 @@
 IBC Pulled Pork
 ===============
 
-#### Very sweet and tender pulled pork recipe for crock pots.
+#### Description
+Very sweet and tender pulled pork recipe for crock pots.
 
 ### Ingredients
-* Roughly 4lb of pork shoulder
-* 2 bottles of IBC root beer _(24oz total if you prefer other root beer)_
-* 2 18oz bottles of BBQ Sauce _(Sweet Baby Ray's is great!)_
+
+|Ingredients                               | US                   | Metric                 |
+|:----------------------------------------:|:--------------------:|:----------------------:|
+| Pork Shoulder                            | 4lb                  | 1.8 kg                 |
+| IBC Root beer _(Technically any brand)_  | 2 bottles(24oz)      | 700ml                  |
+| BBQ Sauce _(Sweet Baby Ray's is great!)_ | 2 bottles(18oz each) | 2 bottles(500 ml each) |
+
 * Rub Spices[Optional]: paprika, sage, basil, oregano
 
 ### Preparation
