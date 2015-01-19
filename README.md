@@ -21,7 +21,7 @@ It is recommended to name the file of your recipe with EveryFirstLetterCapitaliz
 ### Ingredients
 
 |Ingredients | US    |Metric |
-|:----------:|:-----:|:-----:|
+|:-----------|:------|:------|
 | The        | And   | How   |
 | Stuff      | Much  | Of    |
 | You        | It    | 1 ml  |

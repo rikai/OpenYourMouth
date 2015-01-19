@@ -1,6 +1,6 @@
-#Mince Pies
+# Mince Pies
 
-##Ingredients
+## Ingredients
 
 - 8 oz butter, softened
 - 1 lb all-purpose flour 
@@ -10,11 +10,11 @@
 - 1-2 oz of brandy or rum - if desired 
 - 1 Beaten egg, to glaze 
 
-##Hardware
+## Hardware
 
 - Muffin tins to make 30 pies
 
-##Directions
+## Directions
 
 Pre-heat oven to 400 degrees.
 

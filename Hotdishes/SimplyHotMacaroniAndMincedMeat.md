@@ -7,7 +7,7 @@ This is easily customizable hot base for Macaroni and Minced Meat. It is pretty 
 ### Ingredients
 
 | Ingredients | Metric    |
-|:-----------:|:---------:|
+|:------------|:----------|
 | Macaroni    | 400 g     |
 | Minced Meat | 400 g     |
 | Hot Sauce   | Up to you | 

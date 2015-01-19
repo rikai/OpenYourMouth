@@ -1,6 +1,6 @@
-#WizardGed's Spark of Magic Cake
+# WizardGed's Spark of Magic Cake
 
-##Cake Batter:
+## Cake Batter:
 -   1 and 2/3 cups all-purpose flour 
 
 -   1/2 teaspoon baking powder 
@@ -25,9 +25,9 @@
 
 -   1/2 cup Rainbow Sprinkles 
 
-##Decorations:
+## Decorations:
 
-###Frosting
+### Frosting
 
 -   2 tablespoons softened margarine (or white vegetable shortening) 
 
@@ -37,19 +37,19 @@
 
 -   a drop or two of blue raspberry juice concentrate 
 
-###Candies
+### Candies
 
 -   1/2 Cup Yellow lemon jujubes 
 
 -   1 sleeve of Pop Rocks candy of your choice. 
 
-###Extras
+### Extras
 
 -   2-3 Sparklers for whimsical effect.
 
-##Directions:
+## Directions:
 
-###Cake
+### Cake
 
 1. Preheat oven to 350°F 
 
@@ -82,14 +82,14 @@
 12. Mix everything together with a spoon.  (Add a little more
     milk/water if needed.) 
 
-###Frosting
+### Frosting
 
 1.  Mix everything together with a spoon until completely mixed.(Add a
     little more milk if needed) 
 
 2.  Spread evenly across the cake. 
 
-###Decorating
+### Decorating
 
 1.  Place yellow jujubes across the cake in a star like pattern. 
 
