@@ -5,14 +5,14 @@
 
 #### Crust
 |Ingredients | US    |Metric |
-|:----------:|:-----:|:-----:|
+|:-----------|:------|:------|
 | Graham crackers | 18 squares (half of the big rectangles) | |
 | Sugar | 2 Tbsp. | 30 ml |
 | Butter | 1/3 cup | 75 grams |
 
 #### Bottom layer
 |Ingredients | US    |Metric |
-|:----------:|:-----:|:-----:|
+|:-----------|:------|:------|
 | Cream Cheese (warm for easy mixing) | 12 oz (1 1/2 bars) | 355 ml |
 | Sugar | 1/2 cup | 118 ml |
 | Eggs | 2 | 2 |
@@ -20,7 +20,7 @@
 
 #### Top layer
 |Ingredients | US    |Metric |
-|:----------:|:-----:|:-----:|
+|:-----------|:------|:------|
 | Sour cream | 1/2 pint | 237 ml |
 | Sugar | 2 Tbsp. | 30 ml |
 | Vanilla extract | 1/2 tsp | 2.5 ml |
