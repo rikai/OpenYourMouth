@@ -18,10 +18,10 @@ If you like it more tangy, use buttermilk in pleace of plain milk. It is possibl
 ## Instructions
 
 1. Combine everything except the raspberries in a large bowl.
-2. Optionally split it up into small serving sizes.
+2. Optionally split the misxture into small serving sizes.
 3. Leave in the refrigerator for at least 12 hours. 24 hours is better.
 4. Enjoy
 
-If you choose to split into servings (optionsl step 2), top with the raspberries before putting the containers into the refrigerator. I like to use 1 pint freezer "jars", but washed lidded yogurt containers would work just fine here.
+If you choose to split into servings (optional step 2), top the individual servings with the raspberries before putting the containers into the refrigerator. I like to use 1 pint freezer "jars", but washed lidded yogurt containers would work just as well.
 
 If you skip the serviing sizes, serve with fresh raspberries on top.
