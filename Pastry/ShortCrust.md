@@ -1,10 +1,12 @@
 Ingredients
 ===
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| unsalted butter, softened | 1/2 cups | 150g |
+| plain flour | 1 cup | 120g |
+| salt        | pinch   | 1g  |
+| cold water       | 2-3 tbsp | 53 ml   |
 
-* 150g (1/2 cup) unsalted butter, softened
-* 120 g (1 cup) plain flour
-* pinch of salt
-* 2-3 tbsp of cold water
 Instructions
 ===
 
