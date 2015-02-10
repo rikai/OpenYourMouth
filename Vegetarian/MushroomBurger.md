@@ -1,30 +1,25 @@
 # Mushroom Burger
+## A quick and easy vegetarian mushroom burger
 
 *Serves 8*
 
-## Ingredients
+### Ingredients
 
-- 15 mL (1 Tbsp) vegetable oil (more needed to fry patties)
-- 680 g (1 1/2 lb) mushrooms, chopped
-- 5 cloves garlic, minced
-- 240 mL (1 cup) quick oats
-- 180 mL (3/4 cup) breadcrumbs
-- 80 ml (1/3 cup) parmesan cheese, shredded
-- 2 large eggs, beaten
-- 15 mL (1 Tbsp) soy sauce
-- 5 ml (1 tsp) onion powder
-- Pinch of salt
-- Pinch of chili powder
+|Ingredients                | US       |Metric    |
+|:--------------------------|:---------|:---------|
+| Vegetable Oil             | 1 Tbsp   | 15 mL    |
+| Mushrooms, chopped        | 1 1/2 lb | 680 g    |
+| Garlic, minced            | 5 cloves | 5 cloves |
+| Quick Oats                | 1 cup    | 240 mL   |
+| Breadcrumbs               | 3/4 cup  | 180 mL   |
+| Parmesan Cheese, shredded | 1/3 cup  | 80 mL    |
+| Eggs, beaten              | 2 large  | 2 large  |
+| Soy Sauce                 | 1 Tbsp   | 15 mL    |
+| Onion Powder              | 1 tsp    | 5 mL     |
+| Salt                      | 1 pinch  | 1 pinch  |
+| Chili Powder              | 1 pinch  | 1 pinch  |
 
-## For the topping
-
-- 8 Burger buns
-- Tomatoes
-- Lettuce
-- Mustard and Ketchup
-- anything else you may desire
-
-## Instructions
+### Preparation
 
 1. Heat vegetable oil in a saucepan and add mushrooms and garlic.  Sauté the mushrooms and garlic for 10-12 minutes over a medium heat.
 2. Add quick oats, breadcrumbs, parmesan, eggs, soy sauce, onion power, salt, and chili powder together in a bowl.  Let the mixture stand for a few minutes.
