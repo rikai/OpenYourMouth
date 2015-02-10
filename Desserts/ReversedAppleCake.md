@@ -5,7 +5,7 @@
 
 |Ingredients | US    |Metric |
 |:-----------|:------|:------|
-| Apples     | 4     | 4     | (Preferably as sour as possible)
+| Apples     | 4     | 4     |
 | Egg        | 2     | 2     |
 | Butter     |2/3 cup| 200 g |
 | Flour      |2/3 cup| 2 dl  |
@@ -13,6 +13,8 @@
 | Baking Soda| 1 tbsp| 1 tbsp|
 
 * Plenty of cinnamon and sugar
+
+The apples tastes better the more sour they are
 
 
 ### Preparation
