@@ -1,5 +1,6 @@
 # French Glacier
 ## A super tasty drink from the french alps
+Original recipe by metasikander
 
 ### Ingredients
 

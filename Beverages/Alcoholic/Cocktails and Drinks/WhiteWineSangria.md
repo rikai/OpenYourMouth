@@ -8,9 +8,9 @@ reasonable size.
 |:-----------|:------|:------|
 | Sweet white wine (Riesling or Gewürztraminer) | 1 bottle  |  |
 | Fruity white wine (Chardonnay) | 1 bottle | |
-| 100% Apple juice | 34 oz | 1 l |
-| Lemon lime soda | 34 oz | 1 l |
-| Ginger ale | 34 oz | 1 l |
+| 100% Apple juice | 34 fl oz | 1 l |
+| Lemon lime soda | 34 fl oz | 1 l |
+| Ginger ale | 34 fl oz | 1 l |
 | Honey | 1/2 bear | 180 ml |
 | Whole citrus fruits (lemons, limes, oranges. Mix as you wish) | 6 | |
 

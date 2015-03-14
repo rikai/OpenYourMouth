@@ -9,10 +9,12 @@
 
 ### Ingredients
 
-- Bacon
-- Dark Brown Sugar
-- Ground Cayenne Pepper
-- Crushed Red Pepper Flakes
+|Ingredients |
+|:-----------|
+| Bacon |
+| Dark Brown Sugar |
+| Ground Cayenne Pepper |
+| Crushed Red Pepper Flakes |
 
 ### Steps
 

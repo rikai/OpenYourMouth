@@ -8,10 +8,10 @@ A tangy fruity yogurt-based oatmeal that is great for more than just breakfast.
 |Ingredients | US    |Metric |
 |:-----------|:------|:------|
 | Rolled Oats | 3 cups | 700 ml |
-| Good quality nonfat Greek yogurt | 24 oz | 700 ml |
+| Good quality nonfat Greek yogurt | 24 fl oz | 700 ml |
 | Milk | 2 cups | 500 ml |
 | Good quality vanilla | 3 tbsp |
-| Raspberry preserves | 7 - 8 oz | 200 - 235 ml |
+| Raspberry preserves | 7 - 8 fl oz | 200 - 235 ml |
 | Chia seed | 6 tbsp |
 | Raspberries [^1] | 1 lb | 0.5 kg |
 
