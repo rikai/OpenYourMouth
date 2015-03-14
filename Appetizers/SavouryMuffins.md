@@ -1,18 +1,20 @@
 # Savoury Muffins
 
-## Ingredients
+### Ingredients
 
-2 cups self raising wholemeal flour sifted
-1/2 cup (60 grams) finely chopped ham or bacon
-1/2 cup (60 grams) grated cheese 
-1/4 cup (20 grams) finely chopped mushrooms 
-1/2 small red capsicum (75 grams) finely chopped 
-1 tbls finely chopped fresh parsley 
-125gr butter melted 
-1 cup (250ml) milk 
-1 egg lightly beaten 
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Self raising wholemeal flour, sifted | 2 cups | 1/2 liter |
+| Finely chopped ham or bacon | 1/2 cup | 60 g |
+| Grated Cheese | 1/2 cup | 60 g |
+| Finely chopped mushrooms | 1/4 cup | 20 g |
+| Small red capsicum, finely chopped | 1/2 | 75 g |
+| Finely chopped fresh parsley | 1 tbls |
+| Butter, melted | 4.5 oz | 125 g |
+| Milk | 1 cup | 250 g |
+| Egg, lightly beaten | 1 |
 
-## Method
+### Method
 
 1. Grease 3 muffin tins (small, 12 per tray)
 2. Preheat oven to 180 degrees centigrade
@@ -22,6 +24,6 @@
 7. Bake in oven for approximately 15 minutes or until lightly brown 
 8. Turn onto rack to cool 
 
-## Storage
+### Storage
 
 Covered in fridge up to 2 days in air-tight container or individually wrap in cling film and freeze.
