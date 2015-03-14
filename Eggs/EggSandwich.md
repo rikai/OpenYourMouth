@@ -4,14 +4,16 @@
 ![Egg Sandwich](http://i.imgur.com/EO7GYmL.jpg "Egg Sandwich")
 
 ### Ingredients 
+|Ingredients | |
+|:-----------|:-----------|
+| Bread, sliced | 2 |
+| Butter spread |
+| Egg| 1 |
+| Salt and pepper |
 
-- 2 Slices of Bread
-- Butter Spread
-- An Egg
+### Tools
 - Non-Stick Spray
 - Large Frying Pan
-- Salt
-- Pepper
 
 ### Steps
 

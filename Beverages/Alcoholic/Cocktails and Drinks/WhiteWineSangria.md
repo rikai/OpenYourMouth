@@ -2,17 +2,19 @@
 This one is always a hit on a sunny day. I don't have a receipt to make it in a more
 reasonable size.
 
-## Ingredients
+### Ingredients
 
-* 1 bottle sweet white wine -- Riesling or Gewürztraminer
-* 1 bottle fruity white wine -- Chardonnay
-* 1 liter 100% apple juice
-* 1 liter lemon lime soda
-* 1 liter ginger ale
-* 1/2 bear of honey
-* 6 whole citrus fruits -- lemons, limes, oranges. Mix as you wish.
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Sweet white wine (Riesling or Gewürztraminer) | 1 bottle  |  |
+| Fruity white wine (Chardonnay) | 1 bottle | |
+| 100% Apple juice | 34 fl oz | 1 l |
+| Lemon lime soda | 34 fl oz | 1 l |
+| Ginger ale | 34 fl oz | 1 l |
+| Honey | 1/2 bear | 180 ml |
+| Whole citrus fruits (lemons, limes, oranges. Mix as you wish) | 6 | |
 
-## Instructions
+### Instructions
 
 1. Add about 1/2 of the apple juice to a sauce pan over medium heat.
 1. Add all of the honey to the apple juice. Heat and stir until the honey is dissolved.
@@ -23,6 +25,6 @@ reasonable size.
 1. Ideally let it all sit for an hour for the flavors to mix.
 1. Be refreshed.
 
-## A twist
+### A twist
 
 If you are feeling particularly saucy, replace the apple juice with a 6 pack of hard cider. If the cider is sweet enough, you can skip the honey. It's next level stuff.

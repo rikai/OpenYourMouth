@@ -1,23 +1,27 @@
 # Bacon Cheeseball
 
-## Ingredients
+### Ingredients
 
-* 4 oz Mozzarella Cheese
-* 4 oz Provalone Cheese
-* 4 oz Sharp Cheddar Cheese
-* 8 oz Cream Cheese
-* 1/2 tsp Hidden Valley Original Ranch Dip Mix
-* 3-9 Strips of Bacon
-* 1 sqft Clear Wrap
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Mozzarella Cheese | 4 oz | 113 g |
+| Provalone Cheese | 4 oz | 113 g |
+| Sharp Cheddar Cheese | 4 oz | 113 g |
+| Cream Cheese | 8 oz | 227 g |
+| Hidden Valley Original Ranch Dip Mix | 1/2 tsp | |
+| Strips of Bacon | 3 - 9 | |
+
+**Other:**
+* Clear Wrap
 * Crackers (Town House or similar)
 
-## Equipment
+### Equipment
 
 * Food Processor
 * Large Mixer (Optional)
 * Refrigerator
 
-## Instructions
+### Instructions
 
 1. Put cream cheese out to soften.
 2. Cook bacon until crisp and let cool.

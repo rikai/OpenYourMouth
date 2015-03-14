@@ -3,8 +3,10 @@
 
 ### Ingredients
 
-- Bacon
-- Oil
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Bacon | Enough |
+| Oil | Not to much |
 
 ### Steps
 

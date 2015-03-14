@@ -2,8 +2,9 @@
 ## Soft or hard
 
 ### Ingredients
-
-- Egg/s
+|Ingredients |
+|:-----------|
+| Egg/s |
 
 
 ### Steps

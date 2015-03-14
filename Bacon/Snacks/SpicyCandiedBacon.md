@@ -1,20 +1,22 @@
 # Spicy Candied Bacon
+## Not too spicy, not too sweet.
 
-Not too spicy not too sweet.
 
-## Tools
+### Tools
 
 - Baking Dish w/ Lip (as big as possible)
 - Silpat (or wax paper)
 
-## Ingredients
+### Ingredients
 
-- Bacon
-- Dark Brown Sugar
-- Ground Cayenne Pepper
-- Crushed Red Pepper Flakes
+|Ingredients |
+|:-----------|
+| Bacon |
+| Dark Brown Sugar |
+| Ground Cayenne Pepper |
+| Crushed Red Pepper Flakes |
 
-## Steps
+### Steps
 
 1. Put the Silpat (or waxpaper) inside the baking dish.
 2. Lay the bacon in the pan.

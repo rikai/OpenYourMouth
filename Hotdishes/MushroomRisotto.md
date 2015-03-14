@@ -3,19 +3,22 @@
 by: Tomracing79
 
 ### Ingredients
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Risotto rice | | |
+| Celery | 6 stalks | |
+| White onion | 1 | |
+| Garlic | 3 cloves | |
+| Mushrooms | 10.5 oz | 300 g |
+| Parmasan cheese | | |
+| Vegetable stock | enough for 1.5 l | |
+| Olive oil | | |
+| Thyme | | |
+| Parsley | | |
+| Vermouth/Marini or white wine | | |
+| Butter | | |
 
-- risotto rice
-- 6 stalks of celery
-- 1 white onion
-- 3 cloves of garlic
-- Mushrooms about 300gram, oyster mushrooms and chestnut mushrooms do well
-- parmasan cheese
-- vegetable stock enough for 1.5Litres
-- olive oil
-- thyme
-- parsley
-- vermouth/martini or white wine
-- butter
+Oyster mushrooms and chestnut mushrooms do well
 
 ### Steps
 

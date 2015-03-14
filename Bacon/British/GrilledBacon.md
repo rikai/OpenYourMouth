@@ -3,7 +3,9 @@
 
 ### Ingredients
 
-- Bacon
+|Ingredients |
+|:-----------|
+| Bacon |
 
 ## Steps
 

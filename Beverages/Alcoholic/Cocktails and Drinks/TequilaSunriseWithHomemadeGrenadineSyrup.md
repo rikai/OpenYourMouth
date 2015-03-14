@@ -1,5 +1,6 @@
 # Tequila Sunrise with homemade Grenadine Syrup
 ## A great drink for any occasion that tastes so much better with your own syrup
+Original recipe by metasikander
 
 ### Ingredients
 
