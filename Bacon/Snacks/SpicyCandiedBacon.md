@@ -1,6 +1,6 @@
 # Spicy Candied Bacon
-## Not too spicy, not too sweet.
-
+## Description
+Not too spicy, not too sweet.
 
 ### Tools
 
@@ -9,12 +9,10 @@
 
 ### Ingredients
 
-|Ingredients |
-|:-----------|
-| Bacon |
-| Dark Brown Sugar |
-| Ground Cayenne Pepper |
-| Crushed Red Pepper Flakes |
+- Bacon
+- Dark Brown Sugar
+- Ground Cayenne Pepper
+- Crushed Red Pepper Flakes
 
 ### Steps
 

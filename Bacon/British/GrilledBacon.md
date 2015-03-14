@@ -1,5 +1,6 @@
 # Grilled bacon
-## Healthy bacon
+## Description
+Healthy bacon
 
 ### Ingredients
 

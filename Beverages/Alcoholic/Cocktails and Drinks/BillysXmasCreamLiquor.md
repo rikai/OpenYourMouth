@@ -4,8 +4,8 @@
 
 |Ingredients | US    |Metric |
 |:-----------|:------|:------|
-| Crown Royal Whiskey | 13 fl oz | 375 ml |
-| Can of condensed milk | 14 fl oz | 400 ml |
+| Crown Royal Whiskey | 13 oz | 375 ml |
+| Can of condensed milk | 14 oz | 400 ml |
 | Cup of heavy cream | 1 |
 | Eggs | 4 |
 | Chocolate syrup (Hersheys/Smuckers/Homemade etc.) | 2 tbls |
