@@ -2,17 +2,19 @@
 
 ### Ingredients
 
-* Eggs
-* Potatoes
-* Sausage
-* Peppers
-* [Hatch Green Chili](http://www.hatch-chile.com/)
-* Vegetable Oil
-* Tortillas (optional, can turn the eggs into a breakfast burrito)
+|Ingredients |
+|:-----------|
+| Eggs |
+| Potatoes |
+| Sausage |
+| Peppers |
+| [Hatch Green Chili](http://www.hatch-chile.com/) |
+| Vegetable Oil |
+| Tortillas (optional, can turn the eggs into a breakfast burrito) |
 
 ### Cooking
 
->1. Cut up the potatoes into small slices.
+1. Cut up the potatoes into small slices.
 2. Add vegetable oil to a frying pan, and fry the potatoes
 3. Dice up Peppers and add to the frying pan.
 4. Cut up sausages and add to the pan.

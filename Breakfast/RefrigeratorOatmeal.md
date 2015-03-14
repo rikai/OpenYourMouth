@@ -3,19 +3,23 @@
 ## Description
 A tangy fruity yogurt-based oatmeal that is great for more than just breakfast.
 
-## Ingredients
+### Ingredients
 
-* 3 cups Rolled Oats
-* 24 oz good quality nonfat Greek yogurt
-* 2 cups milk
-* 3 Tbsp good quality vanilla
-* 7 - 8 oz raspberry preserves
-* 6 Tbsp chia seed
-* 1lb raspberries, preferably fresh, but frozen work as well
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Rolled Oats | 3 cups | 700 ml |
+| Good quality nonfat Greek yogurt | 24 oz | 700 ml |
+| Milk | 2 cups | 500 ml |
+| Good quality vanilla | 3 tbsp |
+| Raspberry preserves | 7 - 8 oz | 200 - 235 ml |
+| Chia seed | 6 tbsp |
+| Raspberries [^1] | 1 lb | 0.5 kg |
+
+[^1]: preferably fresh, but frozen work as well
 
 If you like it more tangy, use buttermilk in place of plain milk. It is possible to substitute regular yogurt instead of Greek, but you'll need to use less milk.
 
-## Instructions
+### Instructions
 
 1. Combine everything except the raspberries in a large bowl.
 2. Optionally split the mixture into small serving sizes.

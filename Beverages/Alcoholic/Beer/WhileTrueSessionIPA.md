@@ -1,6 +1,5 @@
 # while (true) session ipa;
-## Description
-An aggressively hopped, low gravity American style IPA.  Great for those long coding sessions.
+## An aggressively hopped, low gravity American style IPA.  Great for those long coding sessions.
 
 Batch Size: 11.000 gal (41.6 liters)
 Boil Size: 12.25 gal (46.4 liters)

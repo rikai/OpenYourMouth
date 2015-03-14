@@ -2,9 +2,11 @@
 
 ### Ingredients
 
-* Good dark coffee beans
-* Clean water
-* Patience
+|Ingredients |
+|:-----------|
+| Good dark coffee beans |
+| Clean water |
+| Patience |
 
 ### Why?
 While getting a good cup of iced coffee is getting easier these days, it is

@@ -1,6 +1,6 @@
 # Spicy Candied Bacon
-## Description
-Not too spicy, not too sweet.
+## Not too spicy, not too sweet.
+
 
 ### Tools
 
