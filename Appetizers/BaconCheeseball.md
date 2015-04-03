@@ -4,20 +4,22 @@
 
 |Ingredients | US    |Metric |
 |:-----------|:------|:------|
-| Mozzarella Cheese | 4 oz | 115 g |
-| Provalone Cheese | 4 oz | 115 g |
-| Sharp Cheddar Cheese | 4 oz | 115 g |
-| Cream Cheese | 8 oz | 230 g |
-| Hidden Valley Original Ranch Dip Mix | 1/2 tsp |
-| Strips of Bacon | 3-9 strips |
-| Crackers (Town House or similar) |
+| Mozzarella Cheese | 4 oz | 113 g |
+| Provalone Cheese | 4 oz | 113 g |
+| Sharp Cheddar Cheese | 4 oz | 113 g |
+| Cream Cheese | 8 oz | 227 g |
+| Hidden Valley Original Ranch Dip Mix | 1/2 tsp | |
+| Strips of Bacon | 3 - 9 | |
+
+*Other:*
+* Clear Wrap
+* Crackers (Town House or similar)
 
 ### Equipment
 
 * Food Processor
 * Large Mixer (Optional)
 * Refrigerator
-* Clear Wrap
 
 ### Instructions
 

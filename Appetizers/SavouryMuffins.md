@@ -4,15 +4,15 @@
 
 |Ingredients | US    |Metric |
 |:-----------|:------|:------|
-| Self raising wholemeal flour, sifted | 2 cups | 1/2 liter |
-| Finely chopped ham or bacon | 1/2 cup | 60 g |
-| Grated Cheese | 1/2 cup | 60 g |
-| Finely chopped mushrooms | 1/4 cup | 20 g |
-| Small red capsicum, finely chopped | 1/2 | 75 g |
-| Finely chopped fresh parsley | 1 tbls |
-| Butter, melted | 4.5 oz | 125 g |
-| Milk | 1 cup | 250 g |
-| Egg, lightly beaten | 1 |
+| self raising wholemeal flour sifted | 2 cups | 0.5 l |
+| finely chopped ham or bacon | 1/2 cup | 60 g |
+| grated cheese | 1/2 cup | 60 g |
+| finely chopped mushrooms | 1/4 cup | 20 g |
+| finely chopped small red capsicum | 1 tbls | 75 g |
+| finely chopped fresh parsley | 1 tbls | |
+| butter, melted | 4.4 oz | 125 g |
+| milk | 1 cup | 0.25 l |
+| egg, lightly beaten | 1 | |
 
 ### Method
 
