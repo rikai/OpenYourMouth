@@ -11,7 +11,7 @@
 | Hidden Valley Original Ranch Dip Mix | 1/2 tsp | |
 | Strips of Bacon | 3 - 9 | |
 
-*Other:*
+**Other:**
 * Clear Wrap
 * Crackers (Town House or similar)
 
