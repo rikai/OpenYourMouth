@@ -1,11 +1,12 @@
+# Easy Spicy Ramen
 ![](http://ducakedhare.co.uk/wp-content/uploads/2014/03/DSC_0522-copy.jpg)
 
-# Time
+### Time
 
 * Preparation: 5min
 * Cooking: 5-10min
 
-# Ingredients
+### Ingredients
 
 * 1/2 tsp ginger powder (or 1 tsp chopped ginger)
 * 1/2 tsp garlic powder (or 2 cloves chopped garlic
@@ -20,14 +21,14 @@
 * 1 head of pak choi (variations/additions: broccoli heads, cooking spinach, tat soi, or cavolo nero ...)
 * 40-50 cL boiling water (approx 1 cup)
 
-# Utensils
+### Utensils
 
 * 1 small pot
 * 1 frying pan
 * 1 chopping knife
 * 1 chopping board
 
-# Method
+### Method
 
 1. Add spices, oil, soy and crumbled stock cube to cold pot
 1. Chop up the vegetables coarsley, add to pot
