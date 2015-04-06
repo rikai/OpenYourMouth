@@ -21,5 +21,6 @@
 
 ### Ingredient Images
 This is to make things easy to identify on the costco trip. Since the cheese and croissants are obvious I am only showing the chicken.
+
 ![Mediterranean Chicken](http://www.exprescofoods.com/wp-content/uploads/2013/05/FC-Chicken-Skewers_Costco-CAN-Deli_32451437.jpg "Mediterranean Chicken")
 
