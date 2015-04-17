@@ -3,20 +3,23 @@
 This dish is an easy way to use up cooked chicken or you can grab a rotisserie chicken from the grocery store. Serve over rice, egg noodles or, like my mom used to do, dress it up with these: [Pepperidge Farm Puff Pastry Shells](http://www.pepperidgefarm.com/Images/Products/prdLarge_112172.jpg).
 
 
-## Ingredients
+### Ingredients
 
-* 2 cups cooked chicken, diced
-* 1 1/2 cups frozen mixed vegetables
-* 4 TBSP butter
-* 4 TBSP AP flour
-* 1 cup milk
-* 1 cup low-sodium chicken broth
-* salt and pepper, to taste
-* 1/8 TSP grated nutmeg
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Cooked chicken, diced | 2 cups | 0.5 l |
+| Frozen mixed vegetables | 1 1/2 cups | 0.35 l |
+| Butter | 4 tbsp | |
+| AP flour | 4 tbsp | |
+| Milk | 1 cup | 0.25 l |
+| Low-sodium chicken broth | 1 cup | 0.25 l |
+| Grated nutmeg | 1/8 tsp | |
+
+**Other**
+* Salt and pepper, to taste
 * a couple of dashes of hot sauce (optional)
 
-
-## Procedure
+### Procedure
 
 1. in a saucepan or straight-sided skillet, melt the butter over medium heat
 2. add the nutmeg and the AP flour, stir gently to combine and cook until smooth and bubbly

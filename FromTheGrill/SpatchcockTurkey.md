@@ -4,14 +4,15 @@
 *Cook Time: 1.5hrs +/-*
 
 
-## Ingredients:  
-
-* Whole Turkey (recommend 12 - 14 lbs)
-* Two tablespoons olive oil
+### Ingredients:  
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Whole Turkey | 12 - 14 lbs | 5.5 - 6 kg |
+| Olive oil | 2 tbsp |
 * Shaker of poultry seasoning of choice. *Original author prefers Tony Chachere's Original Creole Seasoning.*
 
 
-## Directions:
+### Directions:
 
 1. Remove outer packaging and organ packet from thawed turkey.
 
@@ -34,6 +35,8 @@
 10. At 155 degrees, remove turkey from grill. Allow turkey to rest, undisturbed, for 15 minutes before carving. This will allow turkey to finish coming up to temperature and the juices will redistribute internally.
 
 11. Carve and serve your delicious, moist, smokey turkey. Then listen to everyone rave about how great it is.
+
+### Notes
 
 `Note 1: Original author uses a standard 22" Weber Kettle Grill.`
 

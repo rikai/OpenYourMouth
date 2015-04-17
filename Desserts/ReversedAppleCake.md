@@ -1,5 +1,6 @@
 # Reversed Apple Cake
 ## An apple cake with the dough pured on top
+Original recipe by metasikander
 
 ### Ingredients
 

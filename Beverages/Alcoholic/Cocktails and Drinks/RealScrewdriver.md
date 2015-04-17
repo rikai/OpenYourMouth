@@ -1,9 +1,11 @@
 # Real Screwdriver
 
-## Ingredients
+### Ingredients
 
-* Vodka
-* Orange Juice
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Vodka |  |  |
+| Orange Juice | | |
 
 ## Equipment
 
