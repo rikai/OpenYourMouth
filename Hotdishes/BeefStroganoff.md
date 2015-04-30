@@ -10,7 +10,8 @@ This is a  typical beef stroganoff, but it is delicious.
 |:------------------|:------|
 |Beef (steak)       |1 lb   |
 |Flour              |1 tbs  |
-|Butter             |1 tbs  |
+|Salt               |1/2 tsp|
+|Butter             |4 tbs  |
 |Mushrooms (fresh)  |1 1/ cups |
 |Onion              |1/2|
 |Garlic             |1 clv|
@@ -19,3 +20,25 @@ This is a  typical beef stroganoff, but it is delicious.
 |Sour Cream         |1 cup|
 |Wine (Chablis Blanc)|6 tbs (or more)|
 |Egg Noodle          |1 bag|
+|Water               |1 1/4 cup|
+
+### Preparation
+
+* Chop onion and mushrooms
+* Cut beef into small pieces
+* Mix 1 tbs flour, 1/2 tsp salt in bowl
+* Coat beef in flour/salt mixture
+* Heat 2 tbs butter in skillet
+* Brown beef in skillet
+* Add onions, mushrooms, and garlic to skillet with beef. Cook 4 minutes
+* Remove above from skillet and store in bowl
+* To skillet, add last 2 tbs butter, 2 tbs flour, tomato paste, sour cream, beef bullion, water
+* Heat above to simmer?
+* Add beef and all to skillet
+* Add wine to skillet
+* Let above simmer and cook egg noodles
+ 
+### Serve
+
+Serve beef stroganoff over noodles
+
