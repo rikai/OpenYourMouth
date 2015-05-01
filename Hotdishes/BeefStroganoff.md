@@ -12,7 +12,7 @@ This is a  typical beef stroganoff, but it is delicious.
 |Flour              |1 tbs  |
 |Salt               |1/2 tsp|
 |Butter             |4 tbs  |
-|Mushrooms (fresh)  |1 1/ cups |
+|Mushrooms (fresh)  |1 1/2 cups |
 |Onion              |1/2|
 |Garlic             |1 clove|
 |Tomato Paste       |1 tbs|
