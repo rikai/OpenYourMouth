@@ -9,7 +9,7 @@ This is a  typical beef stroganoff, but it is delicious.
 |Ingredients        | US    |
 |:------------------|:------|
 |Beef (steak)       |1 lb   |
-|Flour              |1 tbs  |
+|Flour              |3 tbs  |
 |Salt               |1/2 tsp|
 |Butter             |4 tbs  |
 |Mushrooms (fresh)  |1 1/2 cups |
