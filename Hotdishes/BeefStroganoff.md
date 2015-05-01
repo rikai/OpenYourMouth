@@ -25,6 +25,7 @@ This is a  typical beef stroganoff, but it is delicious.
 ### Preparation
 
 * Chop onion and mushrooms.
+* Crush garlic clove.
 * Cut beef into small pieces.
 * Mix 1 tbs flour, 1/2 tsp salt in bowl.
 * Coat beef in flour/salt mixture.
@@ -36,7 +37,8 @@ This is a  typical beef stroganoff, but it is delicious.
 * Heat above to simmer.
 * Add beef and all to skillet.
 * Add wine to skillet.
-* Let above simmer and cook egg noodles.
+* Let above simmer.
+* Boil egg noodles in pan.
  
 ### Serve
 
