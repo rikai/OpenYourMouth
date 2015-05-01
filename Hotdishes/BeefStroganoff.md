@@ -14,13 +14,13 @@ This is a  typical beef stroganoff, but it is delicious.
 |Butter             |4 tbs  |
 |Mushrooms (fresh)  |1 1/ cups |
 |Onion              |1/2|
-|Garlic             |1 clv|
+|Garlic             |1 clove|
 |Tomato Paste       |1 tbs|
 |Beef Bullion       |1 cube|
 |Sour Cream         |1 cup|
-|Wine (Chablis Blanc)|6 tbs (or more)|
-|Egg Noodle          |1 bag|
+|Wine (Chablis Blanc)|6 tbs (or more to taste)|
 |Water               |1 1/4 cup|
+|Egg Noodle          |1 bag|
 
 ### Preparation
 
