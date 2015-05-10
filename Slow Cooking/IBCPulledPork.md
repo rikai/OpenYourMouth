@@ -4,6 +4,8 @@ IBC Pulled Pork
 #### Description
 Very sweet and tender pulled pork recipe for crock pots.
 
+![BBQ Pulled Pork](http://i.imgur.com/YhItOoy.jpg "IBC BBQ Pulled Pork")
+
 ### Ingredients
 
 |Ingredients                               | US                   | Metric                 |
