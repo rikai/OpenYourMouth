@@ -32,7 +32,7 @@ Awesome Steak Tacos. Forget Chipotle, forget Moe's, and forget Taco Bell. You ne
 5. Cook the steak as you would cook bacon.
 
 #### Serving
-_Because presentation is everything: _
+_Because presentation is everything_
 
 1. Heat up a cast iron skillet and heat the tortillas in stacks of 2 for a minute or 2 each.
 2. Place each doubled tortilla on a plate and place a line of steak in the center.
