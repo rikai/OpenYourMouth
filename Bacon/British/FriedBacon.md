@@ -1,10 +1,13 @@
 # Fried bacon
-## The nice but unhealthy way to bacon
+## Description
+The nice but unhealthy way to bacon
 
 ### Ingredients
 
-- Bacon
-- Oil
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Bacon | Enough |
+| Oil | Not to much |
 
 ### Steps
 

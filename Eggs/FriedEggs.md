@@ -2,11 +2,10 @@
 ## The best way to do eggs
 
 ### Ingredients 
-
-- Eggs
-	- One for each fried egg you want
-- Oil
-
+|Ingredients | 
+|:------|
+| Eggs |
+| Oil |
 
 ### Steps
 

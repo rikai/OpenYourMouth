@@ -1,22 +1,26 @@
 # MultiGrain Pancakes
 
-## Ingredients
+### Ingredients
 
-Dry:
-* 1 cup Rolled Oats
-* 2 cups whole white wheat flour
-* 2 tsp baking powder
-* 1/4 tsp baking soda
-* 1 tsp salt
+**Dry:**
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Rolled Oats | 1 cup | 250 ml |
+| Whole white wheat flour | 2 cups | 500 ml |
+| Baking powder | 2 tsp |
+| Baking soda | 1/4 tsp |
+| Salt | 1 tsp |
 
-Wet:
-* 4 eggs, beaten
-* 3 cups buttermilk
-* 1/4 cup vegetable oil
-* 2 to 4 tbsp honey, to taste
-* 1 tsp vanillla extract
+**Wet:**
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Eggs, beaten | 4 |  |
+| Buttermilk | 3 cups | 700 ml |
+| Vegetable oil | 1/4 cup | 60 ml |
+| Honey, to taste | 2 to 4 tbsp |
+| Vanilla extract | 1 tsp |
 
-## Instructions
+### Instructions
 
 1. Heat your griddle or heavy skillet on medium heat.  If not non-stick, oil the surface lightly.
 2. Mix dry ingredients thoroughly.

@@ -1,9 +1,9 @@
-#30-Minute Barbecue Chicken Pizza
+# 30-Minute Barbecue Chicken Pizza
 
 *Prep Time: 15 min*<br>
 *Cook Time: 12 min*  
 
-##Ingredients:  
+## Ingredients:  
 
 * 1 pound store-bought or homemade pizza dough
 * Cornmeal, for dusting baking sheet
@@ -13,7 +13,7 @@
 * 1/3 cup thinly sliced red onions
 * 1/4 cup diced pineapples
 
-##Directions:
+## Directions:
 
 1. Preheat the oven to 500°F.
 

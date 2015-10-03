@@ -3,13 +3,18 @@
 
 ### Ingredients
 
-- 1 LB Hamburger
-- 3 12oz. cans of Pork and Beans
-- 2 Strips of Bacon
-- 1/4 Cup Molasses
-- 1/2 Teaspoon Dry Mustard
-- 1/2 Cup Ketchup
-- 1/4 Cup Worcestershire Sauce
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Hamburger | 1 lb | 0.5 kg |
+| Canned Pork and Beans | 36 oz | 1 kg |
+| Strips of Bacon | 2 | |
+| Brown sugar | 1/2 cup | 100 ml |
+| Molasses | 1/4 cup | 60 ml |
+| Dry mustard | 1/2 tsp | |
+| Ketchup | 1/2 cup | 100 ml |
+| Worcestershire Sauce | 1/4 cup | 60 ml |
+
+**Other:**
 - 1 Pinch of Salt
 - 1 Pinch of Onion Powder
 
