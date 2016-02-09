@@ -8,13 +8,14 @@ Not too spicy, not too sweet.
 - Silpat (or wax paper)
 
 ### Ingredients
+|Ingredients                |
+|:-------------------------:|
+| Bacon                     |
+| Dark Brown Sugar          |
+| Ground Cayenne Pepper     |
+| Crushed Red Pepper Flakes |
 
-- Bacon
-- Dark Brown Sugar
-- Ground Cayenne Pepper
-- Crushed Red Pepper Flakes
-
-### Steps
+### Preperation
 
 1. Put the Silpat (or waxpaper) inside the baking dish.
 2. Lay the bacon in the pan.
