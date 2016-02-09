@@ -3,20 +3,22 @@ Hearty Meat Sauce
 
 Serves: 4+
 
-Ingredients
------------
-- ~500g (1 pound) of ground Beef/Pork/Chicken
-- 2-3 tomatoes (diced)
-- 1 medium onion (diced)
-- 2 cloves of garlic (cut into small pieces)
-- 1-2 celery stalks (sliced)
-- A hand-full of white/brown mushrooms (diced)
-- (Optional) 1 eggplant (cubed)
-- (Optional) 1 zucchini (cubed)
-- 1 jar of your favourite sauce (as a base)
-- 1/2 cup of red wine
-- 1 tablespoon of basil pesto
-- Salt + Pepper
+### Ingredients
+
+|Ingredients                                 |
+|:------------------------------------------:|
+|~500g (1 pound) of ground Beef/Pork/Chicken |
+|2-3 tomatoes (diced)                        |
+|1 medium onion (diced)                      |
+|2 cloves of garlic (cut into small pieces)  |
+|1-2 celery stalks (sliced)                  |
+|A hand-full of white/brown mushrooms (diced)|
+|(Optional) 1 eggplant (cubed)               |
+|(Optional) 1 zucchini (cubed)               |
+|1 jar of your favourite sauce (as a base)   |
+|1/2 cup of red wine                         |
+|1 tablespoon of basil pesto                 |
+|Salt + Pepper                               |
 
 Instructions
 ------------
