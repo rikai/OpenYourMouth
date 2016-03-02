@@ -26,7 +26,7 @@
 
 ## Instructions
 
-1. Cut the onion into small pieces and fry them in a pen till they are translucent.
+1. Cut the onion into small pieces and fry them in a pan till they are translucent.
 2. Put the kidney beans along with the garlic(pressed), the onion, the carrot(grated) 
    and all the other ingredients in a bowl.
 3. Squash the mass using either a masher or a blender. It is good to have a few larger pieces remaining.
