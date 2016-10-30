@@ -12,7 +12,7 @@ Fantastic Crepes. [Good platform for other stuff](https://en.wikipedia.org/wiki/
 | Eggs       | 2         |
 | Salt       | 1/4 tsp   |
 | Milk       | 1/2 cup   |
-| Butter     | 1/2 cup   |
+| Butter     | 2 tbsp    |
 
 ### Preparation
 1. In large bowl, mix flour and eggs.
