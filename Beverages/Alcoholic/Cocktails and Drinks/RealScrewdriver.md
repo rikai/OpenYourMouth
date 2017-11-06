@@ -4,8 +4,8 @@
 
 |Ingredients | US    |Metric |
 |:-----------|:------|:------|
-| Vodka |  |  |
-| Orange Juice | | |
+| Vodka | 1 part | - |
+| Orange Juice | 2 parts | - |
 
 ## Equipment
 
