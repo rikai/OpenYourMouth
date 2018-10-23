@@ -17,7 +17,7 @@ Original recipe by metasikander
 ### Grenadine syrup
 
 1. Mix the sugar and juice in a pan or skillet (the water will evaporate quicker in a skillet), and place on the stovetop on medium heat. Stir to help the sugar dissolve.
-2. Bring to a boil and cook for 5 minutes or until slightly thickened. Don't over boil. If it boils for to long, it will start to crystalize.
+2. Bring to a boil and cook for 5 minutes or until slightly thickened. Don't over boil. If it boils for to long, it will start to crystallize.
 3. Let it cool and add some lemon juice to taste.
 4. Put in a container, and store in the refrigerator for up to one month.
 

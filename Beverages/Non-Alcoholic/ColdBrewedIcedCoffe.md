@@ -12,10 +12,10 @@
 While getting a good cup of iced coffee is getting easier these days, it is
 still pretty common to be handed a cup of hot coffee poured over ice. Not cool.
 Cold brewing the coffee over a long period of time allows for a very strong coffee
-concentrate without the harsh bitternees that hot water can often pull out of
+concentrate without the harsh bitterness that hot water can often pull out of
 your darker roasts.
 
-If you aren't familiar with your local speciality coffee stores, and you are serious
+If you aren't familiar with your local specialty coffee stores, and you are serious
 about a good iced coffee, then take the time to get to know them.
 
 ### How!

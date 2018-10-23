@@ -16,13 +16,13 @@
 
 ### Method
 
-1. Grease 3 muffin tins (small, 12 per tray)
-2. Preheat oven to 180 degrees centigrade
+1. Grease 3 muffin tins (small, 12 per tray).
+2. Preheat oven to 180 degrees centigrade.
 3. Combine flour, ham, cheese, mushrooms, capsicum, parsley in large bowl.
-5. Fold in butter, milk & egg -- do not over mix. 
-6. Divide mixture evenly and spoon into pan
-7. Bake in oven for approximately 15 minutes or until lightly brown 
-8. Turn onto rack to cool 
+5. Fold in butter, milk & egg -- do not over mix.
+6. Divide mixture evenly and spoon into pan.
+7. Bake in oven for approximately 15 minutes or until lightly brown.
+8. Turn onto rack to cool.
 
 ### Storage
 

@@ -17,7 +17,7 @@ Not too spicy, not too sweet.
 
 ### Preperation
 
-1. Put the Silpat (or waxpaper) inside the baking dish.
+1. Put the Silpat (or wax paper) inside the baking dish.
 2. Lay the bacon in the pan.
 3. Move the bacon as close together as possible.
 4. Coat the bacon with brown sugar (just enough to cover it all).

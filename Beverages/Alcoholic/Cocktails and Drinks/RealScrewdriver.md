@@ -19,4 +19,4 @@
 4. Pour Orange Juice to the glass so that the glass is full.
 5. Put your vodka and orange juice back to the fridge.
 6. Drink and have fun!
-7. Repate from step two.
+7. Repeat from step two.
