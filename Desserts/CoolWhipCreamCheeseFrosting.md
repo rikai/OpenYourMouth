@@ -2,7 +2,7 @@
 
 ## Descrition
 
-This is a light creaming frosting that can work on a wide variety of deserts.
+This is a light creamy frosting that can work on a wide variety of deserts.
 
 ### Ingredients
 
