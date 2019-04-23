@@ -47,7 +47,7 @@ There are two methods that seem to work for this task, but both carry the risk o
 6. Do something with your bacon
 
 ### Defrosting in a Fridge
-> The advantage of this method lays in the fact that you run no risk of cooking your bacon or forgetting it out unrefridgerated.
+> The advantage of this method lays in the fact that you run no risk of cooking your bacon or forgetting it out unrefrigerated.
 > The disadvantage is that it is slow
 
 1. Have foresight
