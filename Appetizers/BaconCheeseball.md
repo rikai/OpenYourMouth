@@ -12,7 +12,7 @@
 | Strips of Bacon                                | 3-9 Strips | -      |
 
 **Other:**
-* Clear Wrap
+* Cling Wrap
 * Yellow Butter Crackers (Town House or similar)
 
 ### Equipment

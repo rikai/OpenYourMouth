@@ -26,4 +26,4 @@
 
 ### Storage
 
-Covered in fridge up to 2 days in air-tight container or individually wrap in cling film and freeze.
+Covered in fridge up to 2 days in air-tight container or individually wrap in cling wrap and freeze.
