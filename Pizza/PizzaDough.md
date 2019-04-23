@@ -8,7 +8,7 @@ Ingredients
 * 4 tbsp olive oil
 * 600-700mL body temp water (best amount seems to vary depending on floor type, 660mL is a good start)
 
-For fresh pizza dough it is recommend to buy the highest quality floor avialible. 
+For fresh pizza dough it is recommend to buy the highest quality floor avialible.
 Fresh yeast is also advisible over satchets of dried but it does require starting and can be less consistent.
 
 Equipment
@@ -16,7 +16,7 @@ Equipment
 * 1 700+mL Jug
 * 1 fork
 * 1 large bowl
-* Cling film / tea towl
+* Cling wrap / tea towl
 * 1 warm place to put the bowl (293K - 300K for temp ideally)
 
 Optional
@@ -25,10 +25,10 @@ Optional
 Process
 -------
 
-Follow on of the methods below depending on what equipment you have 
+Follow on of the methods below depending on what equipment you have
 
 #### By Hand
-* Add 660mL of body temp water to a jug, add the sugar, yeast then oil and mix, then set aside. 
+* Add 660mL of body temp water to a jug, add the sugar, yeast then oil and mix, then set aside.
 * Clean your work space, you will need a 60 by 30cm space of clean work surface
 * Sieve your floor into a mound on the work surface
 * Make decent size hole in the middle of your mound so it looks like a short fat volcano (there should still be a good layer of floor at the bottom of the caldera)
@@ -43,7 +43,7 @@ Follow on of the methods below depending on what equipment you have
 * When the dough is elasticy, smooth and light you're done.
 * Dust the large bowl with floor, tip out excess
 * Put dough ball into bowl
-* Cover with cling film or tea towl
+* Cover with cling wrap or tea towl
 * Place bowl into warm place
 * Leave dough for 1-2h hours (dough should double in size)
 * Dusty hands and surface with flour and knead lightly so that some air trapped in the dough escapes
@@ -57,7 +57,7 @@ Follow on of the methods below depending on what equipment you have
 * turn on mixer until dough is smooth and elasticy
 * Dust the large bowl with floor, tip out excess
 * Put dough ball into bowl
-* Cover with cling film or tea towl
+* Cover with cling wrap or tea towl
 * Place bowl into warm place
 * Leave dough for 1-2h hours (dough should double in size)
 * Dusty hands and surface with flour and knead lightly so that some air trapped in the dough escapes
@@ -70,9 +70,9 @@ Follow on of the methods below depending on what equipment you have
 * if your bread machines dough setting includes proving time ( machine will run for 90 mins ) then skip to point A otherwise you will need to manually prove the dough
 * Dust the large bowl with floor, tip out excess
 * Put dough ball into bowl
-* Cover with cling film or tea towl
+* Cover with cling wrap or tea towl
 * Place bowl into warm place
 * Leave dough for 1-2h hours (dough should double in size)
-* POINT A 
+* POINT A
 * Dusty hands and surface with flour and knead lightly so that some air trapped in the dough escapes
 * Dough is now ready to shaping into bases or storage
