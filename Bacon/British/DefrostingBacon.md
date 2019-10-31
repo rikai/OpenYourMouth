@@ -1,7 +1,16 @@
 # Defrosting Bacon
-## Getting bacon quicker
 
-There are two methods that seem to work for this task, both carry the risk of partially cooking you bacon cooking one's bacon. These methods are in no way guaranteed or scientifically tested; proceed with caution, or just leave you bacon in the fridge the night before.
+## Description
+
+Getting bacon quicker
+
+There are two methods that seem to work for this task, but both carry the risk of partially cooking one's bacon. These methods are in no way guaranteed or scientifically tested; proceed with caution, or just leave you bacon in the fridge the night before.
+
+### Ingredients
+
+| Ingredients |
+|:------------|
+| Bacon |
 
 ### The microwave method
 
@@ -37,3 +46,12 @@ There are two methods that seem to work for this task, both carry the risk of pa
 	- Check bacon after each cycle
 6. Do something with your bacon
 
+### Defrosting in a Fridge
+> The advantage of this method lays in the fact that you run no risk of cooking your bacon or forgetting it out unrefrigerated.
+> The disadvantage is that it is slow
+
+1. Have foresight
+	- You need to start the process one day before you are going to use your bacon
+2. Take your bacon out of the freezer
+3. Put your bacon into the fridge
+4. The next day take the bacon out of the fridge and use it

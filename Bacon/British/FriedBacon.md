@@ -1,10 +1,13 @@
 # Fried bacon
-## The nice but unhealthy way to bacon
+## Description
+The nice but unhealthy way to bacon
 
 ### Ingredients
 
-- Bacon
-- Oil
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Bacon | Enough |
+| Oil | Not too much |
 
 ### Steps
 
@@ -15,7 +18,7 @@
 2. Separate bacon into slices
 3. Heat frying pan
 4. Add oil
-	- Not to much!
+	- Not too much!
 5. Put the bacon on the pan
 6. Fry until cooked
 7. Take bacon off pan

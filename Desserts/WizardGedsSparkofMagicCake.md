@@ -1,55 +1,44 @@
-#WizardGed's Spark of Magic Cake
+# WizardGed's Spark of Magic Cake
 
-##Cake Batter:
--   1 and 2/3 cups all-purpose flour 
+### Ingredients
+#### Cake Batter:
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| All-purpose flour | 1 and 2/3 cups | 400 ml |
+| Baking powder | 1/2 tsp |
+| Baking soda | 1/4 tsp |
+| Salt | 1/2 Salt |
+| Unsalted butter, melted | 1/2 cup | 120 ml |
+| Brown sugar | 1/2 cup | 120 ml |
+| Granulated sugar | 1/2 cup | 120 ml |
+| Large egg | 1 |
+| Sour cream or yogurt (plain or vanilla) | 1/4 cup | 60 ml |
+| Milk (Cow, soy or almod) | 3/4 cup | 180 ml |
+| Vanilla extract | 2 tsp |
+| Rainbow sprinkles | 1/2 cup | 120 ml |
 
--   1/2 teaspoon baking powder 
 
--   1/4 teaspoon Baking Soda 
+#### Frosting
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Softened margarine (or white vegetable shortening) | 2 tbsp |
+| Powdered sugar | 2 cups + 2 tbsp | 500 ml |
+| Water/juice/rice/soy/cow's milk | 2 tbsp |
+| Blue raspberry juice concentrate | 1 - 2 drops |
 
--   1/2 teaspoon Salt 
+#### Candies
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Cup Yellow lemon jujubes | 1/2 cup | 120 ml |
+| Pop Rocks candy | 1 sleeve |
 
--   1/2 cup (1 stick) Unsalted Butter, Melted 
-
--   1/2 cup Brown Sugar 
-
--   1/2 cup Granulated Sugar 
-
--   1 Large Egg 
-
--   1/4 cup of Sour Cream or Yogurt (Plain or Vanilla) 
-
--   3/4 cup of milk(Cow, Soy or Almond) 
-
--   2 teaspoons Vanilla Extract 
-
--   1/2 cup Rainbow Sprinkles 
-
-##Decorations:
-
-###Frosting
-
--   2 tablespoons softened margarine (or white vegetable shortening) 
-
--   2 cups + 2 tablespoons powdered sugar 
-
--   2 tablespoons water/juice/rice/soy/cow's milk 
-
--   a drop or two of blue raspberry juice concentrate 
-
-###Candies
-
--   1/2 Cup Yellow lemon jujubes 
-
--   1 sleeve of Pop Rocks candy of your choice. 
-
-###Extras
+#### Extras
 
 -   2-3 Sparklers for whimsical effect.
 
-##Directions:
+### Directions:
 
-###Cake
+#### Cake
 
 1. Preheat oven to 350°F 
 
@@ -82,14 +71,14 @@
 12. Mix everything together with a spoon.  (Add a little more
     milk/water if needed.) 
 
-###Frosting
+#### Frosting
 
 1.  Mix everything together with a spoon until completely mixed.(Add a
     little more milk if needed) 
 
 2.  Spread evenly across the cake. 
 
-###Decorating
+#### Decorating
 
 1.  Place yellow jujubes across the cake in a star like pattern. 
 

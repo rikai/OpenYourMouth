@@ -1,21 +1,23 @@
 # Curry Udon
-###Forget sushi, THIS is Japanese food.
+### Forget sushi, THIS is Japanese food.
 
 ### Ingredients
 
-- 4 portions boiled udon noodles
-- 200 g. thinly sliced beef loin
-- 1/2 onion
-- 1 bunch scallions
-- 1700 cc dashi
-- 2 tablespoons sugar
-- 1 teaspoon salt
-- a pinch of pepper
-- 3 tablespoon soy sauce
-- 70 g. curry roux
-- 3-4 tablespoons cornstarch
-- 3-4 tablespoons water
-- vegetable oil
+|Ingredients | US    |Metric |
+|:-----------|:------|:------|
+| Boiled Udon noodles | 4 portions | |
+| Thinly sliced beef loin | 7 oz | 200 g |
+| Onion | 1/2 | |
+| Scallions | 1 bunch | |
+| Dashi | 1700 cc | |
+| Sugar | 2 tbls | |
+| Salt | 1 tsp | |
+| Pinches of pepper | 1 | |
+| Soy sauce | 3 tbls | |
+| Curry roux | 2.5 oz | 70 g |
+| Cornstarch | 3 - 4 tbls | |
+| Water | 3 - 4 tbls | |
+| Vegetable oil | | |
 
 ### Steps
 1. Cut beef into bite-sized pieces. Slice onion thinly, chop scallions diagonally into thin pieces.

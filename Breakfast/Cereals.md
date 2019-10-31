@@ -2,11 +2,13 @@
 
 ### Ingredients
 
-- Store
-- Bowl
-- Spoon
-- Milk
-- Microwave (optional)
+|Ingredients |
+|:-----------|
+| Store |
+| Bowl |
+| Spoon |
+| Milk |
+| Microwave (optional) |
 
 ### Steps
 
