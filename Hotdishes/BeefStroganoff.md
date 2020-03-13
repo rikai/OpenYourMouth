@@ -6,21 +6,21 @@ This is a  typical beef stroganoff, but it is delicious.
 
 ### Ingredients
 
-|Ingredients        | US    |
-|:------------------|:------|
-|Beef (steak)       |1 lb   |
-|Flour              |3 tbs  |
-|Salt               |1/2 tsp|
-|Butter             |4 tbs  |
-|Mushrooms (fresh)  |1 1/2 cups |
-|Onion              |1/2|
-|Garlic             |1 clove|
-|Tomato Paste       |1 tbs|
-|Beef Bullion       |1 cube|
-|Sour Cream         |1 cup|
-|Wine (Chablis Blanc)|6 tbs (or more to taste)|
-|Water               |1 1/4 cup|
-|Egg Noodle          |1 bag|
+|Ingredients         | US                     | Metric    |
+|:-------------------|:-----------------------|:----------|
+|Beef (steak)        |1 lb                    | 450g      |
+|Flour               |3 tbs                   | 3tbs      |
+|Salt                |1/2 tsp                 | 1/2 tsp   |
+|Butter              |4 tbs                   | 4tbs      |
+|Mushrooms (fresh)   |1 1/2 cups              | 4.2dl     |
+|Onion               |1/2                     | 1/2       |
+|Garlic              |1 clove                 | 1 clove   |
+|Tomato Paste        |1 tbs                   | 1tbs      |
+|Beef Bullion        |1 cube                  | 1 cube    |
+|Sour Cream          |1 cup                   | 2.8dl     |
+|Wine (Chablis Blanc)|6 tbs (or more to taste)| 6tbs      |
+|Water               |1 1/4 cup               | 3.5dl     |
+|Egg Noodle          |1 bag                   | 1 bag     |
 
 ### Preparation
 
