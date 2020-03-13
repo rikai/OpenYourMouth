@@ -5,20 +5,20 @@ Serves: 4+
 
 ### Ingredients
 
-|Ingredients                                 |
-|:------------------------------------------:|
-|~500g (1 pound) of ground Beef/Pork/Chicken |
-|2-3 tomatoes (diced)                        |
-|1 medium onion (diced)                      |
-|2 cloves of garlic (cut into small pieces)  |
-|1-2 celery stalks (sliced)                  |
-|A hand-full of white/brown mushrooms (diced)|
-|(Optional) 1 eggplant (cubed)               |
-|(Optional) 1 zucchini (cubed)               |
-|1 jar of your favourite sauce (as a base)   |
-|1/2 cup of red wine                         |
-|1 tablespoon of basil pesto                 |
-|Salt + Pepper                               |
+|Ingredients                              | US           | Metric       |
+|:----------------------------------------|:-------------|:-------------|
+| Ground Beef/Pork/Chicken                | 1 pound      | 500g         |
+| Tomatoes (diced)                        | 2-3          | 2-3          |
+| Medium onion (diced)                  | 1            | 1            |
+| Garlic cloves (cut into small pieces)   | 2            | 2            |
+| Celery stalks (sliced)                  | 1-2          | 1-2          |
+| White/brown mushrooms (diced)           | A hand-full  | A hand-full  |
+| (Optional) eggplant (cubed)             | 1            | 1            |
+| (Optional) zucchini (cubed)             | 1            | 1            |
+| Your favourite sauce (as a base)        | 1 jar        | 1 jar        |
+| Red wine                                | 1/2 cup      | 1.42 dl      |
+| Basil pesto                             | 1 tablespoon | 1 tablespoon |
+| Salt + Pepper                           | To tase      | To taste     |
 
 Instructions
 ------------
