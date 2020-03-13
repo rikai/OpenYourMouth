@@ -2,14 +2,14 @@
 
 ### Ingredients
 
-|Ingredients         |
-|:-------------------|:----------------------------------|
-|Cream Cheese        |8oz                                |
-|Egg, Beaten         |1                                  |
-|Hot Mashed Potatoes |4 cups (or 6-8 servings of instant)|
-|Finely Chopped Onion| 1/2 Onion                         |
-|Salt                | 1 tsp                             |
-|White Pepper        |A Dash                             |
+|Ingredients         | US                                | Metric |
+|:-------------------|:----------------------------------|:-------|
+|Cream Cheese        |8oz                                | 227g   |
+|Egg, Beaten         |1                                  | 1      |
+|Hot Mashed Potatoes |4 cups (or 6-8 servings of instant)| 11dl   |
+|Finely Chopped Onion| 1/2 Onion                         | 0.5    |
+|Salt                | 1 tsp                             | 1 tsp  |
+|White Pepper        |A Dash                             | A dash |
 
 ## Equipment
 
