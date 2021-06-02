@@ -1,48 +1,50 @@
-# Simple Spatchcock Turkey From The Grill
+# Grilled Salmon Planks with Mango Sauce and Salsa
 
-*Prep Time: 15 min*<br>
-*Cook Time: 1.5hrs +/-*
+*Prep Time: 10-15 min*<br>
+*Cook Time: 20 min +/-*
 
 
-### Ingredients:  
+### Ingredients:
+
 |Ingredients | US    |Metric |
 |:-----------|:------|:------|
-| Whole Turkey | 12 - 14 lbs | 5.5 - 6 kg |
-| Olive oil | 2 tbsp |
-* Shaker of poultry seasoning of choice. *Original author prefers Tony Chachere's Original Creole Seasoning.*
-
+| **Salmon Planks** |
+| Salmon fillets | 3, 1/2 - 1 lb each | 225 - 450 g |
+| Cedar planks for cooking | 3 | N/A |
+| **Sauce** |
+| Mango, cubed | 2+ cups | TBA |
+| Tequila | 2 oz | 55 ml |
+| Lemon juice | 2 tbsp | 30 ml |
+| Honey (or sugar) | 1 tbsp | 15 ml |
+| **Salsa** |
+| Mango, cut into small cubes | 1 cup | TBA |
+| Red onion, minced | 1/4 cup | TBA |
+| Cilantro, minced | 1/4 cup | TBA |
+| Lime juice | 1 tbsp | 15 ml |
+| Jalapeños, minced | as desired | N/A |
 
 ### Directions:
 
-1. Remove outer packaging and organ packet from thawed turkey.
+1. Soak the cedar planks in water for at least half an hour, ideally for a couple of hours.
 
-2. Place turkey on cutting board, spine up. Take a heavy set of kitchen shears and cut down either side of spine, until spine is completely removed.
+2. Just before you're ready to put your salmon on the grill, preheat your grill and prepare the sauce. Blend all sauce ingredients, (mango cubes, tequila, lemon juice, and honey), on high until thoroughly puréed.
 
-3. Flip turkey over and put both hands on center of breastbone, just like you were trying to give turkey CPR. Give a quick, decisive downward press with both arms and you'll hear and feel the breastbone snap. The turkey should now lay almost flat.
+3. Place the salmon filets on the cedar planks, with one filet on each plank. You can leave the skin on the bottom of the filets. Coat the filets thoroughly with the sauce using a brush, including the sides. If you have extra sauce, you can coat the salmon again as it's cooking.
 
-4. Coat both sides of turkey with olive oil and poultry seasoning and set aside.
+4. Set your grill to medium heat, then place the salmon planks on your grill. Cook the salmon until it's the desired temperature (at least 145° F, 63° C). This will take around 20 minutes depending on the thickness of your filets, but it's a good idea to check it periodically to keep it from overcooking.
 
-5. Using a chimney starter, start one full chimney of charcoal and let burn until ashes are visible on top layer.
+5. While you're cooking the salmon, prepare your salsa. Chop all ingredients as explained in the ingredients list. Then mix them together in a bowl and set the salsa aside.
 
-6. Prepare grill by placing a pan of water on one side of charcoal rack (this helps regulate temperature and keep turkey moist), and dump entire chimney of coals against other side of grill, banked tightly as possible against edge of grill. Put a couple of fist sized chunks of hickory on coals and place food grate into position. *Keep in mind, we're using indirect heat, so we're trying to get turkey and coals as far away from each other as possible in our 22" space.*
+6. When the salmon is fully cooked, take it off the grill and peel it off of the planks. When plating, you can remove the skin. Once plated, add the salsa to the top of the salmon as desired.
 
-7. Place turkey on grill; turkey should be skin up, with breast oriented away from coals, and over the pan of water. If turkey legs are protruding directly over charcoal, wrap their ends in pieces of tinfoil to prevent charring.
-
-8. Put lid on grill and do not remove for one hour. 
-
-9. At one hour mark: remove lid, put on a fresh chunk of hickory and install your remote thermometer's probe into the thickest part of the turkey's breast. Set receiver unit to 155 degrees or closest temp underneath that as possible and keep it close to you.
-
-10. At 155 degrees, remove turkey from grill. Allow turkey to rest, undisturbed, for 15 minutes before carving. This will allow turkey to finish coming up to temperature and the juices will redistribute internally.
-
-11. Carve and serve your delicious, moist, smokey turkey. Then listen to everyone rave about how great it is.
+7. Enjoy!
 
 ### Notes
 
-`Note 1: Original author uses a standard 22" Weber Kettle Grill.`
+`Note 1: I use a four-burner gas grill. This recipe also works with charcoal grills, but be sure to watch the heat and not overcook your salmon.`
 
-`Note 2: You do have a remote thermometer, right? If you don't, go get one. Seriously. It's the most important tool in a griller's arsenal when doing indirect grilling, and a cheap one can be had for less than US $30.00.`
+`Note 2: The planks will char, and it's ideal to use a fresh plank each time. You might also want to keep a spray bottle with water nearby in case the edges catch on fire, especially if you haven't soaked the planks for very long.`
 
-`Note 3: You can find recipes all over the internet and various grilling forums that will have you brining the turkey for 24 hours ahead of time, adding coals part way through the cooking process, injecting the turkey with magic potions, etc... none of this is really necessary for a delicious turkey when using this fast, indirect cooking method.`
+`Note 3: You should feel free to vary the salsa recipe quantities and ingredients as you desire.`
 
-`Note 4: If you are new to chimney starters take a sheet of 4 paper towels, fold them double and put a 1" wide line of vegetable oil down them. Then fold them into a smallish square and stick under the full chimney starter. Light it off and come back in 25 minutes or so. I've never had this fail to start the chimney. // Alternatively, you can screw around with folded newspaper and frustration, per the instructions that come with the chimney :D`
-
+`Note 4: Sorry I don't have weights for some of the ingredients! I'll make sure to weigh them next time I cook this and add the weights here.`

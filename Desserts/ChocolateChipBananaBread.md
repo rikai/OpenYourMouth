@@ -49,3 +49,5 @@
 `Note 2: Sometimes I cook the banana bread at 375 F, sometimes at 400 F. It varies the cook time and crunchiness of the crust on top, but either way you'll get good results.`
 
 `Note 3: This recipe is apparently so good that my ex--who I never talk to any more--texted me and asked for the recipe. So be wary of making this for your partner ;D`
+
+`Note 4: Sorry I don't have weights for some of the ingredients! I'll make sure to weigh them next time I cook this and add the weights here.`
