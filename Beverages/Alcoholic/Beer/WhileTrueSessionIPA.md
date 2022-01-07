@@ -2,15 +2,15 @@
 ## Description
 An aggressively hopped, low gravity American style IPA.  Great for those long coding sessions.
 
-Batch Size: 11.000 gal (41.6 liters)
-Boil Size: 12.25 gal (46.4 liters)
-Boil Time: 60.000 min
-Efficiency: 83%
-OG: 1.045
-FG: 1.019
-ABV: 3.3%
-Bitterness: 28.3 IBUs (Tinseth)
-Color: 8 SRM (Morey)
+Batch Size: 11.000 gal (41.6 liters)  
+Boil Size: 12.25 gal (46.4 liters)  
+Boil Time: 60.000 min  
+Efficiency: 83%  
+OG: 1.045  
+FG: 1.019  
+ABV: 3.3%  
+Bitterness: 28.3 IBUs (Tinseth)  
+Color: 8 SRM (Morey)  
 
 ### Ingredients
 
@@ -50,4 +50,4 @@ White Labs WLP002 - English Ale Yeast - 2 liter starter
 8. Maintain 64 F (17.8 C) fermentation temperature for 3 days.
 9. Add dry hops.
 10. Let it free rise to 70 F (21.1 C) for 7 days.
-11. Package (keg or bottle), allow appropriate time for carbonation, chill, and enjoy. 
+11. Package (keg or bottle), allow appropriate time for carbonation, chill, and enjoy.
